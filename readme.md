@@ -12,7 +12,6 @@
 * WP Super Cache - static caching plugin
 * Crazy Lazy - lazy load images
 * Fast Velocity Minify - merging and minifying CSS and JavaScript files
-* Google Webfont Optimizer - optimizes the way Google Fonts loads on your webpage
 * Minify HTML - minify your HTML
 * Compress JPEG & PNG images -  optimize your JPEG and PNG images automatically with TinyPNG
 * WP Database Optimizer - tables to be optimized on a schedule
