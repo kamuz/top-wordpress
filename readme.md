@@ -38,6 +38,7 @@
 
 * WP Quick Install - downloading, decompressing, uploading, plugins and themes installation in one place
 * BackWPup - save your complete installation including /wp-content/ and push them to an external Backup Service, like Dropbox, S3, FTP and many more
+* All-in-One WP Migration - backup all site by one click without any settings
 * WordPress Reset - reset WordPress to its initial state
 * Wordfence Security - security plugin provides free enterprise-class WordPress security
 
