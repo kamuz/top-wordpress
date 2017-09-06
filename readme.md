@@ -57,10 +57,10 @@
 
 ## Custom Post Type
 
-* Custom Post Type UI -  create custom post types and custom taxonomies without touching a line of code.
-* Advanced Custom Fields - custom fields to your site with custom meta boxes that your users can effortlessly input data into
-* Toolset Types - add custom post types, custom fields and custom taxonomies
-* MB Custom Post Type - helps you to create and manage custom post types and custom taxonomies easily by providing an easy-to-use interface in the admin area
+* [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) -  create custom post types and custom taxonomies without touching a line of code.
+* [MB Custom Post Type](https://wordpress.org/plugins/mb-custom-post-type/) - helps you to create and manage custom post types and custom taxonomies easily by providing an easy-to-use interface in the admin area
+* [https://wordpress.org/plugins/pods/](https://wordpress.org/plugins/pods/) - custom content types and fields
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - custom fields to your site with custom meta boxes that your users can effortlessly input data into
 
 ## Images
 
