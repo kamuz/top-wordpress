@@ -49,6 +49,7 @@
 * TablePress - easily create and export tables from XLS, CSV
 * Maps Builder - visually build powerful customized Google Maps 
 * Simply Show IDs - adds a new column at the right side of the WordPress table that displays entry IDs
+* [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 
 ## Page Builder and widgets
 
