@@ -19,15 +19,13 @@
 
 ## Develop
 
-* _S - starter theme
-* Unyson - settings framework of theme
-* Redux Framework - setting framework of theme
+* [Underscores](https://underscores.me/) - starter theme
 * FakerPress - generate fake and dummy content
 * Query Monitor - debug console than output usefull information about site performance
 * Theme Check - scan your theme and make sure that it uses the latest WordPress standards and practices
 * Log Deprecated Notices - track of the usage of deprecated files, functions and arguments
 * Simply Show Hooks - simpler way to see these hooks by displaying them in-line on the page that you are on
-* GenerateWP - the easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's
+* [GenerateWP](https://generatewp.com/generator/) - the easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's
 
 ## Forms
 
@@ -50,6 +48,7 @@
 * Maps Builder - visually build powerful customized Google Maps 
 * Simply Show IDs - adds a new column at the right side of the WordPress table that displays entry IDs
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
+* [Ajax Load More](https://wordpress.org/plugins/ajax-load-more/) - infinite scroll plugin for lazy loading posts, single posts, pages, comments and more with Ajax powered queries
 
 ## Page Builder and widgets
 
@@ -58,9 +57,7 @@
 
 ## Custom Post Type
 
-* [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) -  create custom post types and custom taxonomies without touching a line of code.
 * [MB Custom Post Type](https://wordpress.org/plugins/mb-custom-post-type/) - helps you to create and manage custom post types and custom taxonomies easily by providing an easy-to-use interface in the admin area
-* [Pods](https://wordpress.org/plugins/pods/) - custom content types and fields
 * [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - custom fields to your site with custom meta boxes that your users can effortlessly input data into
 
 ## Images
