@@ -74,3 +74,7 @@
 
 * Polylang - multilingual  site
 * qTranslate X - multilingual  site
+
+## Users and membership
+
+* [Simple Membership](https://wordpress.org/plugins/simple-membership/) - a flexible, well-supported, and easy-to-use wordpress membership plugin for offering free and premium content from your wordpress site
