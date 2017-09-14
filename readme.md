@@ -25,17 +25,9 @@
 * Theme Check - scan your theme and make sure that it uses the latest WordPress standards and practices
 * Log Deprecated Notices - track of the usage of deprecated files, functions and arguments
 * Simply Show Hooks - simpler way to see these hooks by displaying them in-line on the page that you are on
-* [GenerateWP](https://generatewp.com/generator/) - the easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's
-
-## Forms
-
-* Contact Form 7 - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
-* Ninja Forms - create the form you want, when you want with a simple drag and drop interface provided by the very powerful Ninja Forms framework.
 
 ## System
 
-* WP Quick Install - downloading, decompressing, uploading, plugins and themes installation in one place
-* BackWPup - save your complete installation including /wp-content/ and push them to an external Backup Service, like Dropbox, S3, FTP and many more
 * All-in-One WP Migration - backup all site by one click without any settings
 * WordPress Reset - reset WordPress to its initial state
 * Wordfence Security - security plugin provides free enterprise-class WordPress security
@@ -49,16 +41,18 @@
 * Simply Show IDs - adds a new column at the right side of the WordPress table that displays entry IDs
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Ajax Load More](https://wordpress.org/plugins/ajax-load-more/) - infinite scroll plugin for lazy loading posts, single posts, pages, comments and more with Ajax powered queries
+* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
+* [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 
 ## Page Builder and widgets
 
 * Visual Composer - most popular page builder
 * Widgetkit - an easy-to-use widget creator
 
-## Custom Post Type
+## Custom Post Type and Metaboxes
 
-* [MB Custom Post Type](https://wordpress.org/plugins/mb-custom-post-type/) - helps you to create and manage custom post types and custom taxonomies easily by providing an easy-to-use interface in the admin area
 * [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - custom fields to your site with custom meta boxes that your users can effortlessly input data into
+* [GenerateWP](https://generatewp.com/generator/) - the easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's
 
 ## Images
 
