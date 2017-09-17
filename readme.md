@@ -20,6 +20,7 @@
 ## Develop
 
 * [Underscores](https://underscores.me/) - starter theme
+* [YOOtheme Pro]() - set of themes and widgets based on UIkit framework with page builder that gives powerfull and flexebible customizing
 * FakerPress - generate fake and dummy content
 * Query Monitor - debug console than output usefull information about site performance
 * Theme Check - scan your theme and make sure that it uses the latest WordPress standards and practices
@@ -44,15 +45,9 @@
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 
-## Page Builder and widgets
+## Custom Post Type, Page Builder and Metaboxes
 
-* Visual Composer - most popular page builder
-* Widgetkit - an easy-to-use widget creator
-
-## Custom Post Type and Metaboxes
-
-* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - custom fields to your site with custom meta boxes that your users can effortlessly input data into
-* [GenerateWP](https://generatewp.com/generator/) - the easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - custom fields to your site with custom meta boxes
 
 ## Images
 
@@ -66,9 +61,10 @@
 
 ## Internationazation
 
-* Polylang - multilingual  site
-* qTranslate X - multilingual  site
+* [qTranslate X](https://uk.wordpress.org/plugins/qtranslate-x/) - multilingual  site
 
-## Users and membership
+## Users, community and membership
 
 * [Simple Membership](https://wordpress.org/plugins/simple-membership/) - a flexible, well-supported, and easy-to-use wordpress membership plugin for offering free and premium content from your wordpress site
+* [bbPress](https://wordpress.org/plugins/bbpress/) - forum software
+* [BuddyPress](https://wordpress.org/plugins/buddypress/) - community features like member profiles, activity streams, direct messaging, notifications
