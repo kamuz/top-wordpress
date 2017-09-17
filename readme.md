@@ -30,6 +30,7 @@
 ## System
 
 * All-in-One WP Migration - backup all site by one click without any settings
+* [WP-DBManager](https://wordpress.org/plugins/wp-dbmanager/) - optimize database, repair database, backup database, restore database, delete backup database , drop/empty tables and run selected queries
 * WordPress Reset - reset WordPress to its initial state
 * Wordfence Security - security plugin provides free enterprise-class WordPress security
 
