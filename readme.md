@@ -43,7 +43,7 @@
 * [TablePress](https://uk.wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
 * [Maps Builder](https://uk.wordpress.org/plugins/google-maps-builder/) - visually build powerful customized Google Maps 
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
-* [Ajax Load More](https://wordpress.org/plugins/ajax-load-more/) - infinite scroll plugin for lazy loading posts, single posts, pages, comments and more with Ajax powered queries
+* [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 
@@ -53,12 +53,12 @@
 
 ## Images
 
-* [Enhanced Media Library](https://uk.wordpress.org/plugins/enhanced-media-library/) - add new taxonomies, categories and filters data by this parameters
+* [Enhanced Media Library](https://uk.wordpress.org/plugins/enhanced-media-library/) - add new taxonomies, categories and filters data by this parameters in Media Library
 * [Justified Gallery](https://uk.wordpress.org/plugins/justified-gallery/) - simple photo gallery - use the native WordPress gallery, justified layout with Justified Gallery, lightbox with PhotoSwipe
 
 ## eCommerce
 
-* [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting,  filtering, galleries, CSV import/export, payment gateway etc.
+* [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
 
 ## Internationazation
 
@@ -67,5 +67,6 @@
 ## Users, community and membership
 
 * [Simple Membership](https://wordpress.org/plugins/simple-membership/) - offering free and premium content members area, one time or recurring payment, unlimited access levels, content protection, payment gateway, member login, registration, edit profile etc shortcodes
-* [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading)
+* [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
+* [DW Question & Answer](https://wordpress.org/plugins/dw-question-answer/) - Question & Answer system
