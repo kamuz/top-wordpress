@@ -1,46 +1,47 @@
 ## SEO
 
-* Google XML Sitemaps - automatically generate an XML sitemap
-* All In One Schema.org Rich Snippets - help give search engines a useful summary of your content to display (snippets)
-* Broken Link Checker - identify and remove brocken links
-* Redirection - setting 301 redirects
-* Google Analytics Dashboard for WP - enables to track your site and allows you to view key Google Analytics stats
-* Cyr to Lat enhanced - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
+* [Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/) - automatically generate an XML sitemap
+* [All In One Schema.org Rich Snippets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/) - help give search engines a useful summary of your content to display (snippets)
+* [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - identify and remove brocken links
+* [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
+* [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - enables to track your site and allows you to view key Google Analytics stats
+* [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
 
 ## Performance
 
-* WP Super Cache - static caching plugin
-* Crazy Lazy - lazy load images
-* Fast Velocity Minify - merging and minifying CSS and JavaScript files
-* Minify HTML - minify your HTML
-* Compress JPEG & PNG images -  optimize your JPEG and PNG images automatically with TinyPNG
-* WP Database Optimizer - tables to be optimized on a schedule
-* BJ Lazy Load - replaces all your post images, post thumbnails, gravatar images and content iframes with a placeholder
+* [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - static caching plugin
+* [Crazy Lazy](https://wordpress.org/plugins/crazy-lazy/) - lazy load images
+* [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying CSS and JavaScript files
+* [Minify HTML](https://wordpress.org/plugins/minify-html-markup/) - minify your HTML
+* [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) -  optimize your JPEG and PNG images automatically with TinyPNG
+* [BJ Lazy Load](https://wordpress.org/plugins/bj-lazy-load/) - replaces all your post images, post thumbnails, gravatar images and content iframes with a placeholder
+
+## Theme and widgets
+
+* [Underscores](https://underscores.me/) - starter theme
+* [YOOtheme Pro](http://yootheme.com/pro/) - set of themes and widgets based on UIkit framework with page builder that gives powerfull and flexebible customizing
+* [Widgetkit](http://yootheme.com/widgetkit) - set of widgets - gallery, tabs, accordeon etc.
 
 ## Develop
 
-* [Underscores](https://underscores.me/) - starter theme
-* [YOOtheme Pro]() - set of themes and widgets based on UIkit framework with page builder that gives powerfull and flexebible customizing
-* FakerPress - generate fake and dummy content
-* Query Monitor - debug console than output usefull information about site performance
-* Theme Check - scan your theme and make sure that it uses the latest WordPress standards and practices
-* Log Deprecated Notices - track of the usage of deprecated files, functions and arguments
-* Simply Show Hooks - simpler way to see these hooks by displaying them in-line on the page that you are on
+* [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
+* [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
+* [Theme Check](https://wordpress.org/plugins/theme-check/) - scan your theme and make sure that it uses the latest WordPress standards and practices
+* [Log Deprecated Notices](https://wordpress.org/plugins/log-deprecated-notices/) - track of the usage of deprecated files, functions and arguments
+* [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) - simpler way to see these hooks by displaying them in-line on the page that you are on
 
 ## System
 
-* All-in-One WP Migration - backup all site by one click without any settings
-* [WP-DBManager](https://wordpress.org/plugins/wp-dbmanager/) - optimize database, repair database, backup database, restore database, delete backup database , drop/empty tables and run selected queries
-* WordPress Reset - reset WordPress to its initial state
-* Wordfence Security - security plugin provides free enterprise-class WordPress security
+* [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
+* [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
+* [WP-DBManager](https://wordpress.org/plugins/wp-dbmanager/) - optimize database, repair database, backup database, restore database, delete backup database, drop/empty tables and run selected queries
 
 ## Content
 
-* SVG Support - allow to using SVG graphics into Media Library
-* Typewriter - replaces the Visual Editor with a simple Markdown editor for your posts and pages
-* TablePress - easily create and export tables from XLS, CSV
-* Maps Builder - visually build powerful customized Google Maps 
-* Simply Show IDs - adds a new column at the right side of the WordPress table that displays entry IDs
+* [SVG Support](https://uk.wordpress.org/plugins/svg-support/) - allow to using SVG graphics into Media Library
+* [Typewriter](https://uk.wordpress.org/plugins/typewriter/) - replaces the Visual Editor with a simple Markdown editor for your posts and pages
+* [TablePress](https://uk.wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
+* [Maps Builder](https://uk.wordpress.org/plugins/google-maps-builder/) - visually build powerful customized Google Maps 
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Ajax Load More](https://wordpress.org/plugins/ajax-load-more/) - infinite scroll plugin for lazy loading posts, single posts, pages, comments and more with Ajax powered queries
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
@@ -48,24 +49,23 @@
 
 ## Custom Post Type, Page Builder and Metaboxes
 
-* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - custom fields to your site with custom meta boxes
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - page builder and custom fields with meta boxes
 
 ## Images
 
-* Enhanced Media Library - a better management for WordPress Media Library
-* WP Tiles - add beautiful, fully customizable post tiles or tiled galleries anywhere on your WordPress site easily with WP Tiles.
-* Wanna Isotope - a plugin to easily build Isotope/Masonry layouts with any content (posts, pages or custom post types), responsive grids, filterable content.
+* [Enhanced Media Library](https://uk.wordpress.org/plugins/enhanced-media-library/) - add new taxonomies, categories and filters data by this parameters
+* [Justified Gallery](https://uk.wordpress.org/plugins/justified-gallery/) - simple photo gallery - use the native WordPress gallery, justified layout with Justified Gallery, lightbox with PhotoSwipe
 
 ## eCommerce
 
-* WooCommerce - eCommerce solution
+* [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting,  filtering, galleries, CSV import/export, payment gateway etc.
 
 ## Internationazation
 
-* [qTranslate X](https://uk.wordpress.org/plugins/qtranslate-x/) - multilingual  site
+* [qTranslate X](https://uk.wordpress.org/plugins/qtranslate-x/) - translate site, in-line syntax, language switcher, WooCommerce and ACF integration
 
 ## Users, community and membership
 
-* [Simple Membership](https://wordpress.org/plugins/simple-membership/) - a flexible, well-supported, and easy-to-use wordpress membership plugin for offering free and premium content from your wordpress site
-* [bbPress](https://wordpress.org/plugins/bbpress/) - forum software
-* [BuddyPress](https://wordpress.org/plugins/buddypress/) - community features like member profiles, activity streams, direct messaging, notifications
+* [Simple Membership](https://wordpress.org/plugins/simple-membership/) - offering free and premium content members area, one time or recurring payment, unlimited access levels, content protection, payment gateway, member login, registration, edit profile etc shortcodes
+* [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading)
+* [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
