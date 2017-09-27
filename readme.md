@@ -35,6 +35,7 @@
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 * [WP-DBManager](https://wordpress.org/plugins/wp-dbmanager/) - optimize database, repair database, backup database, restore database, delete backup database, drop/empty tables and run selected queries
+* [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - enables you to manage all types of updates
 
 ## Content
 
@@ -45,6 +46,7 @@
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
+* [Black Studio TinyMCE Widget](https://wordpress.org/plugins/black-studio-tinymce-widget/) - adds a new Visual Editor widget type that allows you to insert rich text and media objects in your sidebars
 
 ## Email
 
