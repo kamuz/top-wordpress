@@ -67,6 +67,11 @@
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
 
+## Search and filters
+
+* [Advanced AJAX Search & Filter](https://wordpress.org/plugins/advanced-search-form-builder/) - AJAX search and filter form for multiple demand, easy to use, have pre-built template
+* [Facetious](https://wordpress.org/plugins/facetious/) - advanced search form to your WordPress website
+
 ## Internationazation
 
 * [qTranslate X](https://uk.wordpress.org/plugins/qtranslate-x/) - translate site, in-line syntax, language switcher, WooCommerce and ACF integration
