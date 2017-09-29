@@ -70,7 +70,6 @@
 ## Search and filters
 
 * [Advanced AJAX Search & Filter](https://wordpress.org/plugins/advanced-search-form-builder/) - AJAX search and filter form for multiple demand, easy to use, have pre-built template
-* [Facetious](https://wordpress.org/plugins/facetious/) - advanced search form to your WordPress website
 
 ## Internationazation
 
