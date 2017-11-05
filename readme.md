@@ -48,6 +48,7 @@
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
+* [CMS Tree Page View](https://wordpress.org/plugins/cms-tree-page-view/) - view your pages & posts in a tree-view, drag and drop to rearrange/order your pages, add pages after or inside a page, search page etc.
 
 ## Email
 
