@@ -75,7 +75,7 @@
 
 ## Internationazation
 
-* [qTranslate X](https://uk.wordpress.org/plugins/qtranslate-x/) - translate site, in-line syntax, language switcher, WooCommerce and ACF integration
+* [WPML](https://wpml.org/) - translate pages, posts, custom types, taxonomy, menus and even the theme’s texts
 
 ## Users, community and membership
 
