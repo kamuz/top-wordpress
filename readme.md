@@ -40,7 +40,9 @@
 ## Content
 
 * [SVG Support](https://uk.wordpress.org/plugins/svg-support/) - allow to using SVG graphics into Media Library
-* [Typewriter](https://uk.wordpress.org/plugins/typewriter/) - replaces the Visual Editor with a simple Markdown editor for your posts and pages
+* [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
+* [GitHub-Flavored Markdown Comments](https://wordpress.org/plugins/github-flavored-markdown-comments/) - write comment in Markdown and  automatically converted to HTML
+* [Markdown Highlighter](https://wordpress.org/plugins/markdown-highlighter/) - Markdown parser and syntax highlighter
 * [TablePress](https://uk.wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
 * [Maps Builder](https://uk.wordpress.org/plugins/google-maps-builder/) - visually build powerful customized Google Maps 
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
