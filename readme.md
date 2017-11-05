@@ -36,6 +36,7 @@
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 * [WP-DBManager](https://wordpress.org/plugins/wp-dbmanager/) - optimize database, repair database, backup database, restore database, delete backup database, drop/empty tables and run selected queries
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - enables you to manage all types of updates
+* [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - enables you to manage all types of updates on your site
 
 ## Content
 
