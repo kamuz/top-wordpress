@@ -48,7 +48,6 @@
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
-* [Black Studio TinyMCE Widget](https://wordpress.org/plugins/black-studio-tinymce-widget/) - adds a new Visual Editor widget type that allows you to insert rich text and media objects in your sidebars
 
 ## Email
 
