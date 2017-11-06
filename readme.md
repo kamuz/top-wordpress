@@ -38,11 +38,11 @@
 
 ## Content
 
-* [SVG Support](https://uk.wordpress.org/plugins/svg-support/) - allow to using SVG graphics into Media Library
+* [SVG Support](https://wordpress.org/plugins/svg-support/) - allow to using SVG graphics into Media Library
 * [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
 * [Mark It Down WordPress!](https://wordpress.org/plugins/mark-it-down-wp/) - write posts, pages or comments in plain-text Markdown syntax
-* [TablePress](https://uk.wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
-* [Maps Builder](https://uk.wordpress.org/plugins/google-maps-builder/) - visually build powerful customized Google Maps 
+* [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
+* [Maps Builder](https://wordpress.org/plugins/google-maps-builder/) - visually build powerful customized Google Maps 
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
@@ -50,8 +50,8 @@
 ## Email
 
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
-* [Contact Form 7 Multi-Step Forms](https://uk.wordpress.org/plugins/contact-form-7-multi-step-module/) - contact form that spanned across multiple pages and in the end would send an email with all the info collected
-* [Easy WP SMTP](https://uk.wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
+* [Contact Form 7 Multi-Step Forms](https://wordpress.org/plugins/contact-form-7-multi-step-module/) - contact form that spanned across multiple pages and in the end would send an email with all the info collected
+* [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
 
 ## Custom Post Type, Page Builder and Metaboxes
 
@@ -59,7 +59,7 @@
 
 ## Images
 
-* [Justified Gallery](https://uk.wordpress.org/plugins/justified-gallery/) - use the native WordPress gallery, justified layout with Justified Gallery, lightbox with PhotoSwipe
+* [Justified Gallery](https://wordpress.org/plugins/justified-gallery/) - use the native WordPress gallery, justified layout with Justified Gallery, lightbox with PhotoSwipe
 
 ## eCommerce
 
