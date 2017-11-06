@@ -59,8 +59,7 @@
 
 ## Images
 
-* [Enhanced Media Library](https://uk.wordpress.org/plugins/enhanced-media-library/) - add new taxonomies, categories and filters data by this parameters in Media Library
-* [Justified Gallery](https://uk.wordpress.org/plugins/justified-gallery/) - simple photo gallery - use the native WordPress gallery, justified layout with Justified Gallery, lightbox with PhotoSwipe
+* [Justified Gallery](https://uk.wordpress.org/plugins/justified-gallery/) - use the native WordPress gallery, justified layout with Justified Gallery, lightbox with PhotoSwipe
 
 ## eCommerce
 
@@ -77,6 +76,7 @@
 ## Users, community and membership
 
 * [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role (except Administrator) capabilities easy, with a few clicks
+* [WP Custom Register Login](https://wordpress.org/plugins/wp-custom-register-login/) - add ajax enabled custom login/register form
 * [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - allow your website readers and customers to register on using their existing social accounts IDs, eliminating the need to fill out registration forms and remember usernames and passwords
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
