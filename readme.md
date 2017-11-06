@@ -76,7 +76,7 @@
 ## Users, community and membership
 
 * [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role (except Administrator) capabilities easy, with a few clicks
-* [WP Custom Register Login](https://wordpress.org/plugins/wp-custom-register-login/) - add ajax enabled custom login/register form
+* [Login With Ajax](https://wordpress.org/plugins/login-with-ajax/) - ajax login/register form with different styles, widget, shortcodes and modal window
 * [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - allow your website readers and customers to register on using their existing social accounts IDs, eliminating the need to fill out registration forms and remember usernames and passwords
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
