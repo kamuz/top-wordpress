@@ -76,6 +76,7 @@
 
 ## Users, community and membership
 
-* [User Role Editor]() - change user role (except Administrator) capabilities easy, with a few clicks
+* [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role (except Administrator) capabilities easy, with a few clicks
+* [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - allow your website readers and customers to register on using their existing social accounts IDs, eliminating the need to fill out registration forms and remember usernames and passwords
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
