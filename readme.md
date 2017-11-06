@@ -35,8 +35,6 @@
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 * [WP-DBManager](https://wordpress.org/plugins/wp-dbmanager/) - optimize database, repair database, backup database, restore database, delete backup database, drop/empty tables and run selected queries
-* [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - enables you to manage all types of updates
-* [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - enables you to manage all types of updates on your site
 
 ## Content
 
@@ -78,5 +76,6 @@
 
 ## Users, community and membership
 
+* [User Role Editor]() - change user role (except Administrator) capabilities easy, with a few clicks
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
