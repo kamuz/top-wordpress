@@ -42,14 +42,12 @@
 
 * [SVG Support](https://uk.wordpress.org/plugins/svg-support/) - allow to using SVG graphics into Media Library
 * [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
-* [GitHub-Flavored Markdown Comments](https://wordpress.org/plugins/github-flavored-markdown-comments/) - write comment in Markdown and  automatically converted to HTML
-* [Markdown Highlighter](https://wordpress.org/plugins/markdown-highlighter/) - Markdown parser and syntax highlighter
+* [Mark It Down WordPress!](https://wordpress.org/plugins/mark-it-down-wp/) - write posts, pages or comments in plain-text Markdown syntax
 * [TablePress](https://uk.wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
 * [Maps Builder](https://uk.wordpress.org/plugins/google-maps-builder/) - visually build powerful customized Google Maps 
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
-* [CMS Tree Page View](https://wordpress.org/plugins/cms-tree-page-view/) - view your pages & posts in a tree-view, drag and drop to rearrange/order your pages, add pages after or inside a page, search page etc
 
 ## Email
 
@@ -80,7 +78,5 @@
 
 ## Users, community and membership
 
-* [Simple Membership](https://wordpress.org/plugins/simple-membership/) - offering free and premium content members area, one time or recurring payment, unlimited access levels, content protection, payment gateway, member login, registration, edit profile etc shortcodes
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
-* [DW Question & Answer](https://wordpress.org/plugins/dw-question-answer/) - Question & Answer system
