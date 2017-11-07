@@ -40,7 +40,7 @@
 
 * [SVG Support](https://wordpress.org/plugins/svg-support/) - allow to using SVG graphics into Media Library
 * [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
-* [Mark It Down WordPress!](https://wordpress.org/plugins/mark-it-down-wp/) - write posts, pages or comments in plain-text Markdown syntax
+* [Parsedown for WordPress](https://wordpress.org/plugins/parsedown-wp/) - runs your posts and comments through the Parsedown Extra
 * [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
 * [Maps Builder](https://wordpress.org/plugins/google-maps-builder/) - visually build powerful customized Google Maps 
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
@@ -77,6 +77,7 @@
 
 * [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role (except Administrator) capabilities easy, with a few clicks
 * [Login With Ajax](https://wordpress.org/plugins/login-with-ajax/) - ajax login/register form with different styles, widget, shortcodes and modal window
+* [WP Custom Register Login]() - customized user logins or registrations
 * [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - allow your website readers and customers to register on using their existing social accounts IDs, eliminating the need to fill out registration forms and remember usernames and passwords
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
