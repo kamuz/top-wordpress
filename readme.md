@@ -65,10 +65,6 @@
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
 
-## Search and filters
-
-* [Advanced AJAX Search & Filter](https://wordpress.org/plugins/advanced-search-form-builder/) - AJAX search and filter form for multiple demand, easy to use, have pre-built template
-
 ## Internationazation
 
 * [WPML](https://wpml.org/) - translate pages, posts, custom types, taxonomy, menus and even the theme’s texts
