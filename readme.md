@@ -67,7 +67,7 @@
 
 ## Internationazation
 
-* [WPML](https://wpml.org/) - translate pages, posts, custom types, taxonomy, menus and even the theme’s texts
+* [Polylang](https://wordpress.org/plugins/polylang/) - translate pages, posts, custom types, taxonomy, menus
 
 ## Users, community and membership
 
