@@ -64,6 +64,7 @@
 ## eCommerce
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
+* [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - complete eCommerce solution for selling digital products
 
 ## Internationazation
 
@@ -77,3 +78,5 @@
 * [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - allow your website readers and customers to register on using their existing social accounts IDs, eliminating the need to fill out registration forms and remember usernames and passwords
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
+* [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/) - chat with your visitors, no third party connections required, there's no need to pay for live chat monthly subscriptions in order to better understand your visitors
+* [Simple Membership](https://wordpress.org/plugins/simple-membership/) - lets you protect your posts and pages so only your members can view the protected content
