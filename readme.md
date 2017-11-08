@@ -79,3 +79,4 @@
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
 * [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/) - chat with your visitors, no third party connections required, there's no need to pay for live chat monthly subscriptions in order to better understand your visitors
 * [Simple Membership](https://wordpress.org/plugins/simple-membership/) - lets you protect your posts and pages so only your members can view the protected content
+* [WP Job Manager](https://wordpress.org/plugins/wp-job-manager/) - lightweight job listing plugin for adding job-board like functionality
