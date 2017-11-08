@@ -52,6 +52,10 @@
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [Contact Form 7 Multi-Step Forms](https://wordpress.org/plugins/contact-form-7-multi-step-module/) - contact form that spanned across multiple pages and in the end would send an email with all the info collected
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
+* [Email Subscribers](https://wordpress.org/plugins/email-subscribers/) - complete newsletter plugin which lets you collect leads, send automated new blog post notification emails, create & send newsletters and also manage them all in one single place
+* [Icegram](https://wordpress.org/plugins/icegram/) - create beautiful optins and call to actions of your choice, show them to targeted visitors and convert them to customers and fans
+* [Rainmaker Form](https://wordpress.org/plugins/icegram-rainmaker/) -  collect leads on your WordPress website, it provides you readymade form templates, styles that can be inserted anywhere on your WordPress website
+* [Group Selector](https://wordpress.org/plugins/email-subscribers-advanced-form/) - extends Subscribe Form functionality, you can provide option to your users to select interested group in the Subscribe Form during sign up
 
 ## Custom Post Type, Page Builder and Metaboxes
 
