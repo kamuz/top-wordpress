@@ -47,7 +47,7 @@
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 
-## Email
+## Email & Notification
 
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [Contact Form 7 Multi-Step Forms](https://wordpress.org/plugins/contact-form-7-multi-step-module/) - contact form that spanned across multiple pages and in the end would send an email with all the info collected
@@ -56,6 +56,7 @@
 * [Icegram](https://wordpress.org/plugins/icegram/) - create beautiful optins and call to actions of your choice, show them to targeted visitors and convert them to customers and fans
 * [Rainmaker Form](https://wordpress.org/plugins/icegram-rainmaker/) -  collect leads on your WordPress website, it provides you readymade form templates, styles that can be inserted anywhere on your WordPress website
 * [Group Selector](https://wordpress.org/plugins/email-subscribers-advanced-form/) - extends Subscribe Form functionality, you can provide option to your users to select interested group in the Subscribe Form during sign up
+* [PushAlert](https://wordpress.org/plugins/pushalert-web-push-notifications/) - allows your users to subscribe to push notifications and lets you push notifications manually or automatically on publishing a post
 
 ## Custom Post Type, Page Builder and Metaboxes
 
