@@ -56,7 +56,7 @@
 * [Icegram](https://wordpress.org/plugins/icegram/) - create beautiful optins and call to actions of your choice, show them to targeted visitors and convert them to customers and fans
 * [Rainmaker Form](https://wordpress.org/plugins/icegram-rainmaker/) -  collect leads on your WordPress website, it provides you readymade form templates, styles that can be inserted anywhere on your WordPress website
 * [Group Selector](https://wordpress.org/plugins/email-subscribers-advanced-form/) - extends Subscribe Form functionality, you can provide option to your users to select interested group in the Subscribe Form during sign up
-* [PushAlert](https://wordpress.org/plugins/pushalert-web-push-notifications/) - allows your users to subscribe to push notifications and lets you push notifications manually or automatically on publishing a post
+* [OneSignal](https://wordpress.org/plugins/onesignal-free-web-push-notifications/) - Free Web Push Notifications
 
 ## Custom Post Type, Page Builder and Metaboxes
 
