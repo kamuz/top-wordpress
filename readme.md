@@ -10,11 +10,9 @@
 ## Performance
 
 * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - static caching plugin
-* [Crazy Lazy](https://wordpress.org/plugins/crazy-lazy/) - lazy load images
 * [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying CSS and JavaScript files
 * [Minify HTML](https://wordpress.org/plugins/minify-html-markup/) - minify your HTML
 * [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) -  optimize your JPEG and PNG images automatically with TinyPNG
-* [BJ Lazy Load](https://wordpress.org/plugins/bj-lazy-load/) - replaces all your post images, post thumbnails, gravatar images and content iframes with a placeholder
 
 ## Theme and widgets
 
