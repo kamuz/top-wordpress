@@ -14,18 +14,10 @@
 * [Minify HTML](https://wordpress.org/plugins/minify-html-markup/) - minify your HTML
 * [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) -  optimize your JPEG and PNG images automatically with TinyPNG
 
-## Theme and widgets
-
-* [Underscores](https://underscores.me/) - starter theme
-* [YOOtheme Pro](http://yootheme.com/pro/) - set of themes and widgets based on UIkit framework with page builder that gives powerfull and flexebible customizing
-* [Widgetkit](http://yootheme.com/widgetkit) - set of widgets - gallery, tabs, accordeon etc.
-
 ## Development
 
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - scan your theme and make sure that it uses the latest WordPress standards and practices
-* [Log Deprecated Notices](https://wordpress.org/plugins/log-deprecated-notices/) - track of the usage of deprecated files, functions and arguments
-* [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) - simpler way to see these hooks by displaying them in-line on the page that you are on
 
 ## Database
 
