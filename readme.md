@@ -22,19 +22,19 @@
 * [YOOtheme Pro](http://yootheme.com/pro/) - set of themes and widgets based on UIkit framework with page builder that gives powerfull and flexebible customizing
 * [Widgetkit](http://yootheme.com/widgetkit) - set of widgets - gallery, tabs, accordeon etc.
 
-## Develop
+## Development
 
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
-* [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - scan your theme and make sure that it uses the latest WordPress standards and practices
 * [Log Deprecated Notices](https://wordpress.org/plugins/log-deprecated-notices/) - track of the usage of deprecated files, functions and arguments
 * [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) - simpler way to see these hooks by displaying them in-line on the page that you are on
 
-## System
+## Database
 
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 * [WP-DBManager](https://wordpress.org/plugins/wp-dbmanager/) - optimize database, repair database, backup database, restore database, delete backup database, drop/empty tables and run selected queries
+* [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 
 ## Content
 
@@ -42,7 +42,7 @@
 * [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
 * [Parsedown for WordPress](https://wordpress.org/plugins/parsedown-wp/) - runs your posts and comments through the Parsedown Extra
 * [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
-* [Maps Builder](https://wordpress.org/plugins/google-maps-builder/) - visually build powerful customized Google Maps 
+* [Map Multi Marker](https://wordpress.org/plugins/map-multi-marker/) - add multiple Google Maps, set multiple markers, set own markers, customize content for popup windows
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
@@ -85,3 +85,4 @@
 * [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/) - chat with your visitors, no third party connections required, there's no need to pay for live chat monthly subscriptions in order to better understand your visitors
 * [Simple Membership](https://wordpress.org/plugins/simple-membership/) - lets you protect your posts and pages so only your members can view the protected content
 * [WP Job Manager](https://wordpress.org/plugins/wp-job-manager/) - lightweight job listing plugin for adding job-board like functionality
+* [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
