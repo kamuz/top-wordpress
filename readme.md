@@ -64,6 +64,7 @@
 ## Internationazation
 
 * [Polylang](https://wordpress.org/plugins/polylang/) - translate pages, posts, custom types, taxonomy, menus
+* [Loco Translate](https://wordpress.org/plugins/loco-translate/) - provides in-browser editing of WordPress translation files
 
 ## Users, community and membership
 
