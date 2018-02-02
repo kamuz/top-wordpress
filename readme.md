@@ -23,7 +23,7 @@
 
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
-* [WP Migrate DB](https://wordpress.org/plugins/wp-migrate-db/) - exports your database as a MySQL data dump, does a find and replace on URLs and file paths, handles serialized data, then allows you to save it to your computer as an SQL file
+* [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - simplifies backups and restoration
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 
 ## Content
