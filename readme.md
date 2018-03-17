@@ -23,7 +23,6 @@
 
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
-* [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - simplifies backups and restoration
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 
 ## Content
@@ -37,16 +36,12 @@
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 
-## Email & Notification
+## Email and Forms
 
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [Contact Form 7 Multi-Step Forms](https://wordpress.org/plugins/contact-form-7-multi-step-module/) - contact form that spanned across multiple pages and in the end would send an email with all the info collected
+* [WordPress ReCaptcha Integration](https://wordpress.org/plugins/wp-recaptcha-integration/) - provides reCAPTCHA integration for signup, login, comments and forms
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
-* [Email Subscribers](https://wordpress.org/plugins/email-subscribers/) - complete newsletter plugin which lets you collect leads, send automated new blog post notification emails, create & send newsletters and also manage them all in one single place
-* [Icegram](https://wordpress.org/plugins/icegram/) - create beautiful optins and call to actions of your choice, show them to targeted visitors and convert them to customers and fans
-* [Rainmaker Form](https://wordpress.org/plugins/icegram-rainmaker/) -  collect leads on your WordPress website, it provides you readymade form templates, styles that can be inserted anywhere on your WordPress website
-* [Group Selector](https://wordpress.org/plugins/email-subscribers-advanced-form/) - extends Subscribe Form functionality, you can provide option to your users to select interested group in the Subscribe Form during sign up
-* [OneSignal](https://wordpress.org/plugins/onesignal-free-web-push-notifications/) - Free Web Push Notifications
 
 ## Custom Post Type, Page Builder and Metaboxes
 
