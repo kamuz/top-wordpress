@@ -46,6 +46,7 @@
 ## Custom Post Type, Page Builder and Metaboxes
 
 * [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - page builder and custom fields with meta boxes
+* [Carbon Fields](https://wordpress.org/plugins/carbon-fields/) - custom fields can be created for post types, taxonomy terms, users, comments, options, navigation menus and even widgets. Like ACF but fully OpenSource project
 
 ## Images
 
