@@ -40,6 +40,7 @@
 
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [Contact Form 7 Multi-Step Forms](https://wordpress.org/plugins/contact-form-7-multi-step-module/) - contact form that spanned across multiple pages and in the end would send an email with all the info collected
+* [Conditional Fields for Contact Form 7](https://wordpress.org/plugins/cf7-conditional-fields/) - adds conditional logic to Contact Form 7
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
 
 ## Custom Post Type, Page Builder and Metaboxes
