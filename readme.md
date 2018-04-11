@@ -49,6 +49,7 @@
     * [Gravity Forms + Custom Post Types](https://sl.wordpress.org/plugins/gravity-forms-custom-post-types/) - allows you to change the post type of the generated post
     * [Gravity PDF](https://wordpress.org/plugins/gravity-forms-pdf-extended/) - generating digital PDF documents using Gravity Forms
     * [Gravity Forms Sticky List](https://wordpress.org/plugins/gravity-forms-sticky-list/) - lets you list and edit entries from the front end
+    * [Gravity Forms Repeater Add-On](https://wordpress.org/plugins/repeater-add-on-for-gravity-forms/) - allows specified groups of fields to be repeated by the user
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
 
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
