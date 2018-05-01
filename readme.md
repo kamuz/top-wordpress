@@ -12,7 +12,7 @@
 * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - static caching plugin
 * [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying CSS and JavaScript files
 * [Minify HTML](https://wordpress.org/plugins/minify-html-markup/) - minify your HTML
-* [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) -  optimize your JPEG and PNG images automatically with TinyPNG
+* [reSmush.it Image Optimizer](https://wordpress.org/plugins/resmushit-image-optimizer/) - allow to use free Image optimization based on reSmush.it API
 
 ## Development
 
