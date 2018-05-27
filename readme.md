@@ -35,6 +35,7 @@
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
+* [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library
 
 ## Admin panel
 
