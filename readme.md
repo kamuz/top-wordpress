@@ -24,6 +24,7 @@
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
+* [WP Sync DB](https://github.com/wp-sync-db/wp-sync-db) - migrate, push and pull database with single click
 
 ## Content
 
