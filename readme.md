@@ -63,6 +63,7 @@
 ## Custom Post Type, Page Builder and Metaboxes
 
 * [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - page builder and custom fields with meta boxes
+* [Carbon Fields](https://wordpress.org/plugins/carbon-fields/) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
 
 ## Images
 
