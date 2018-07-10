@@ -33,6 +33,7 @@
 * [Parsedown for WordPress](https://wordpress.org/plugins/parsedown-wp/) - runs your posts and comments through the Parsedown Extra
 * [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
 * [Map Multi Marker](https://wordpress.org/plugins/map-multi-marker/) - add multiple Google Maps, set multiple markers, set own markers, customize content for popup windows
+* [Pronamic Google Maps](https://wordpress.org/plugins/pronamic-google-maps/) - add Google Map into post, pages and custom post type.
 * [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
@@ -62,8 +63,7 @@
 
 ## Custom Post Type, Page Builder and Metaboxes
 
-* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - page builder and custom fields with meta boxes
-* [Carbon Fields](https://wordpress.org/plugins/carbon-fields/) - Developer-oriented library for WordPress custom fields for all types of WordPress content.
+* [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder and custom fields with meta boxes
 
 ## Images
 
