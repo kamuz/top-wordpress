@@ -25,6 +25,8 @@
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 * [WP Sync DB](https://github.com/wp-sync-db/wp-sync-db) - migrate, push and pull database with single click
+* [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - effective tool for automatically cleaning your WordPress database
+* [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - simplifies backups and restoration
 
 ## Content
 
