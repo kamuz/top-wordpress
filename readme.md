@@ -30,7 +30,7 @@
 
 ## Content
 
-* [SVG Support](https://wordpress.org/plugins/svg-support/) - allow to using SVG graphics into Media Library
+* [WP SVG images](https://wordpress.org/plugins/wp-svg-images/) - Add SVG support to your WordPress
 * [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
 * [Parsedown for WordPress](https://wordpress.org/plugins/parsedown-wp/) - runs your posts and comments through the Parsedown Extra
 * [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
