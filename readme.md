@@ -41,6 +41,10 @@
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library
 
+## Social
+
+* [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - display completely customizable, responsive and search engine crawlable versions of your Twitter feed on your website
+
 ## Admin panel
 
 * [Adminimize](https://wordpress.org/plugins/adminimize/) - clean up the WordPress admin area, for example activate/deactivate every part of the menu and the sub-menu etc.
