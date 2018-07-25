@@ -18,6 +18,7 @@
 
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - scan your theme and make sure that it uses the latest WordPress standards and practices
+* [Custom Header Footer Scripts for Customizer](https://wordpress.org/plugins/custom-script-for-customizer/) - Add custom script to header and footer through WordPress Customizer
 
 ## Database
 
