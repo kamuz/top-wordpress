@@ -49,6 +49,7 @@
 ## Admin panel
 
 * [Adminimize](https://wordpress.org/plugins/adminimize/) - clean up the WordPress admin area, for example activate/deactivate every part of the menu and the sub-menu etc.
+* [Clean WP Admin Menu](https://wordpress.org/plugins/clean-wp-admin-menu/) - you can make rarely used items in the admin menu invisible until you need them
 * [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager provides you features to edit, delete, upload, download, copy and paste files and folders.
 
 ## Email and Forms
