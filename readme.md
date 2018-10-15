@@ -13,6 +13,8 @@
 * [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying CSS and JavaScript files
 * [Minify HTML](https://wordpress.org/plugins/minify-html-markup/) - minify your HTML
 * [reSmush.it Image Optimizer](https://wordpress.org/plugins/resmushit-image-optimizer/) - allow to use free Image optimization based on reSmush.it API
+* [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - effective tool for automatically cleaning your WordPress database
+* [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - unlike other similar plugins, it lets you delete only specific posts revisions, not all your site revisions at once
 
 ## Development
 
@@ -26,8 +28,6 @@
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 * [WP Sync DB](https://github.com/wp-sync-db/wp-sync-db) - migrate, push and pull database with single click
-* [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - effective tool for automatically cleaning your WordPress database
-* [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - simplifies backups and restoration
 
 ## Content
 
