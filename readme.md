@@ -82,11 +82,8 @@
 ## Users, community and membership
 
 * [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role capabilities easy, with a few clicks
-* [Login With Ajax](https://wordpress.org/plugins/login-with-ajax/) - ajax login/register form with different styles, widget, shortcodes and modal window
-* [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - allow your website readers and customers to register on using their existing social accounts IDs, eliminating the need to fill out registration forms and remember usernames and passwords
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
 * [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/) - chat with your visitors, no third party connections required, there's no need to pay for live chat monthly subscriptions in order to better understand your visitors
-* [Simple Membership](https://wordpress.org/plugins/simple-membership/) - lets you protect your posts and pages so only your members can view the protected content
 * [WP Job Manager](https://wordpress.org/plugins/wp-job-manager/) - lightweight job listing plugin for adding job-board like functionality
 * [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
