@@ -55,22 +55,13 @@
 ## Email and Forms
 
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
-    * [Contact Form 7 Multi-Step Forms](https://wordpress.org/plugins/contact-form-7-multi-step-module/) - contact form that spanned across multiple pages and in the end would send an email with all the info collected
-    * [Conditional Fields for Contact Form 7](https://wordpress.org/plugins/cf7-conditional-fields/) - adds conditional logic to Contact Form 7
-    * [Contact Form 7 – Success Page Redirects](https://wordpress.org/plugins/contact-form-7-success-page-redirects/) - redirect visitors to success pages
-    * [Contact Form Submissions](https://wordpress.org/plugins/contact-form-submissions/) - each submission is stored in the database so they can be easily managed using the default WordPress interface
-    * [Send PDF for Contact Form 7](https://wordpress.org/plugins/send-pdf-for-contact-form-7/) - allow to recover the data yourself via your form to insert them into a PDF built and prepared by you
-    * [Contact Form 7 Dynamic Text Extension](https://wordpress.org/plugins/contact-form-7-dynamic-text-extension/) -  provides a new tag type for the Contact Form 7 that allows the dynamic generation of content for a text input box via any shortcode
 * [Gravity Forms](https://www.gravityforms.com/) - advanced forms
-    * [Gravity Forms + Custom Post Types](https://sl.wordpress.org/plugins/gravity-forms-custom-post-types/) - allows you to change the post type of the generated post
-    * [Gravity PDF](https://wordpress.org/plugins/gravity-forms-pdf-extended/) - generating digital PDF documents using Gravity Forms
-    * [Gravity Forms Sticky List](https://wordpress.org/plugins/gravity-forms-sticky-list/) - lets you list and edit entries from the front end
-    * [Gravity Forms Repeater Add-On](https://wordpress.org/plugins/repeater-add-on-for-gravity-forms/) - allows specified groups of fields to be repeated by the user
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
 
 ## Custom Post Type, Page Builder and Metaboxes
 
+* [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - help to create new custom post types
 * [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder and custom fields with meta boxes
 
 ## Images
