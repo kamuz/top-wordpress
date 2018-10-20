@@ -73,7 +73,11 @@
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - complete eCommerce solution for selling digital products
+
+## Search
+
 * [Ajax Search for WooCommerce](https://wordpress.org/plugins/ajax-search-for-woocommerce/) - will display the results instantly while typing in an inputbox
+* [FacetWP](https://facetwp.com/) - advanced filtering and faceted search for WordPress and WooCommerce.
 
 ## Internationazation
 
