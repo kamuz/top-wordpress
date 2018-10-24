@@ -28,7 +28,6 @@
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
-* [WP Sync DB](https://github.com/wp-sync-db/wp-sync-db) - migrate, push and pull database with single click
 
 ## Content
 
@@ -42,6 +41,7 @@
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library
+* [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress, and lets you see exactly what people are doing on your site
 
 ## Social
 
