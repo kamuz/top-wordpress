@@ -81,6 +81,7 @@
 
 * [Ajax Search for WooCommerce](https://wordpress.org/plugins/ajax-search-for-woocommerce/) - will display the results instantly while typing in an inputbox
 * [FacetWP](https://facetwp.com/) - advanced filtering and faceted search for WordPress and WooCommerce.
+* [SearchWP](https://searchwp.com/) - search in E-Commerce product details, PDF & document content, custom field content, shortcode output, taxonomy term etc.
 
 ## Internationazation
 
