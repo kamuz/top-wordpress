@@ -6,6 +6,7 @@
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - enables to track your site and allows you to view key Google Analytics stats
 * [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
+* 
 
 ## Performance
 
@@ -92,3 +93,4 @@
 * [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/) - chat with your visitors, no third party connections required, there's no need to pay for live chat monthly subscriptions in order to better understand your visitors
 * [WP Job Manager](https://wordpress.org/plugins/wp-job-manager/) - lightweight job listing plugin for adding job-board like functionality
 * [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
+* [AnyComment](https://ru.wordpress.org/plugins/anycomment/) - is free blazing-fast commenting plugin, no dependency on third party services, all comments stored in your database.
