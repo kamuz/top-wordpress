@@ -23,6 +23,7 @@
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - scan your theme and make sure that it uses the latest WordPress standards and practices
 * [Custom Header Footer Scripts for Customizer](https://wordpress.org/plugins/custom-script-for-customizer/) - Add custom script to header and footer through WordPress Customizer
 * [CMP Coming Soon & Maintenance](https://wordpress.org/plugins/cmp-coming-soon-maintenance/) - activate your Maintenance, Coming soon or Landing page with a single click
+* [Kirki](https://wordpress.org/plugins/kirki/) - allow theme developers to create rich experience for WordPress Customizer and included are more than 30 custom control types
 
 ## Database
 
