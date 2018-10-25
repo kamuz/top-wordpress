@@ -6,7 +6,7 @@
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - enables to track your site and allows you to view key Google Analytics stats
 * [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
-* 
+* [The SEO Framework](https://wordpress.org/plugins/autodescription/) - provides an automated, accessible, unbranded, and a lightning-fast SEO solution
 
 ## Performance
 
