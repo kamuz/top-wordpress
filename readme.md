@@ -8,6 +8,7 @@
 * [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
 * [The SEO Framework](https://wordpress.org/plugins/autodescription/) - provides an automated, accessible, unbranded, and a lightning-fast SEO solution
 
+
 ## Performance
 
 * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - static caching plugin
