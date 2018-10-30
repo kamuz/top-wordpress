@@ -14,7 +14,7 @@
 * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - static caching plugin
 * [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying CSS and JavaScript files
 * [Minify HTML](https://wordpress.org/plugins/minify-html-markup/) - minify your HTML
-* [reSmush.it Image Optimizer](https://wordpress.org/plugins/resmushit-image-optimizer/) - allow to use free Image optimization based on reSmush.it API
+* [Webcraftic Robin image optimizer](https://wordpress.org/plugins/robin-image-optimizer/) - make your website faster by reducing the weight of images
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - effective tool for automatically cleaning your WordPress database
 * [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - unlike other similar plugins, it lets you delete only specific posts revisions, not all your site revisions at once
 
