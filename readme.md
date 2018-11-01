@@ -12,11 +12,10 @@
 ## Performance
 
 * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - static caching plugin
-* [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying CSS and JavaScript files
-* [Minify HTML](https://wordpress.org/plugins/minify-html-markup/) - minify your HTML
-* [Webcraftic Robin image optimizer](https://wordpress.org/plugins/robin-image-optimizer/) - make your website faster by reducing the weight of images
-* [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - effective tool for automatically cleaning your WordPress database
+* [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying HTML, CSS and JavaScript files
+* [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG.
 * [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - unlike other similar plugins, it lets you delete only specific posts revisions, not all your site revisions at once
+* [WP Rocket](https://wp-rocket.me/pricing/) - complex caching and optimization plugin for WordPress
 
 ## Development
 
@@ -64,14 +63,10 @@
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
 
-## Custom Post Type, Page Builder and Metaboxes
+## Custom Post Type, Page Builder and Metaboxes and UI elements
 
 * [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - help to create new custom post types
-* [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder and custom fields with meta boxes
-
-## Images
-
-* [Justified Gallery](https://wordpress.org/plugins/justified-gallery/) - use the native WordPress gallery, justified layout with Justified Gallery, lightbox with PhotoSwipe
+* [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder, custom fields and meta boxes, theme settings, gallery, sliders, accordeons, tabs
 
 ## eCommerce
 
