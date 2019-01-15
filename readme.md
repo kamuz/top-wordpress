@@ -33,7 +33,7 @@
 
 ## Content
 
-* [WP SVG images](https://wordpress.org/plugins/wp-svg-images/) - Add SVG support to your WordPress
+* [WP SVG images](https://wordpress.org/plugins/wp-svg-images/) - add SVG support to your WordPress
 * [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
 * [Parsedown for WordPress](https://wordpress.org/plugins/parsedown-wp/) - runs your posts and comments through the Parsedown Extra
 * [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
@@ -44,6 +44,7 @@
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library
 * [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress, and lets you see exactly what people are doing on your site
+* [Filter Page by Template](wordpress wordpress-plugin wordpress-development) - filter posts/pages by selecting a template from the dropdown
 
 ## Social
 
@@ -60,6 +61,7 @@
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [Contact Form 7 – Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - This plugin adds repeatable groups of fields to Contact Form 7
 * [Gravity Forms](https://www.gravityforms.com/) - advanced forms
+* [Formidable Forms](https://formidableforms.com/) - advanced forms
 * [HappyForms](https://wordpress.org/plugins/happyforms/) - free drag and drop form builder for creating forms
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
@@ -68,6 +70,7 @@
 
 * [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - help to create new custom post types
 * [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder, custom fields and meta boxes, theme settings, gallery, sliders, accordeons, tabs
+* [Carbon Fields](https://github.com/htmlburger/carbon-fields) - custom fields, metaboxes, theme options etc. - the same as ACF Pro, but fully free and no have UI
 
 ## eCommerce
 
