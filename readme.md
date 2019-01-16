@@ -15,10 +15,10 @@
 * [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying HTML, CSS and JavaScript files
 * [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG.
 * [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - unlike other similar plugins, it lets you delete only specific posts revisions, not all your site revisions at once
-* [WP Rocket](https://wp-rocket.me/pricing/) - complex caching and optimization plugin for WordPress
 
 ## Development
 
+* [WP-CLI](https://wp-cli.org/) - command-line interface for WordPress
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - scan your theme and make sure that it uses the latest WordPress standards and practices
 * [Custom Header Footer Scripts for Customizer](https://wordpress.org/plugins/custom-script-for-customizer/) - Add custom script to header and footer through WordPress Customizer
@@ -39,7 +39,6 @@
 * [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
 * [Map Multi Marker](https://wordpress.org/plugins/map-multi-marker/) - add multiple Google Maps, set multiple markers, set own markers, customize content for popup windows
 * [Pronamic Google Maps](https://wordpress.org/plugins/pronamic-google-maps/) - add Google Map into post, pages and custom post type.
-* [Video PopUp](https://wordpress.org/plugins/video-popup/) - display YouTube or Vimeo video in PopUp
 * [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
 * [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library
