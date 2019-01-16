@@ -44,7 +44,7 @@
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library
 * [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress, and lets you see exactly what people are doing on your site
 * [Simple History](https://wordpress.org/plugins/simple-history/) - shows recent changes made within WordPress, directly on your dashboard or on a separate page
-* [Filter Page by Template](https://wordpress wordpress-plugin wordpress-development) - filter posts/pages by selecting a template from the dropdown
+* [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
 
 ## Social
 
