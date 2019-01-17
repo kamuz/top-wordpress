@@ -25,11 +25,15 @@
 * [CMP Coming Soon & Maintenance](https://wordpress.org/plugins/cmp-coming-soon-maintenance/) - activate your Maintenance, Coming soon or Landing page with a single click
 * [Kirki](https://wordpress.org/plugins/kirki/) - allow theme developers to create rich experience for WordPress Customizer and included are more than 30 custom control types
 
+## Debug
+
+* [Laps]() - light WordPress profiler
+* [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
+
 ## Database
 
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
-* [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 
 ## Content
 
