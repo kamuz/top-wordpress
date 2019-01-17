@@ -49,6 +49,7 @@
 * [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress, and lets you see exactly what people are doing on your site
 * [Simple History](https://wordpress.org/plugins/simple-history/) - shows recent changes made within WordPress, directly on your dashboard or on a separate page
 * [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
+* [WP-PageNavi](https://wordpress.org/plugins/wp-pagenavi/) - numerical pagination
 
 ## Social
 
