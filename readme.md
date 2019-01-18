@@ -75,6 +75,8 @@
 
 * [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - help to create new custom post types
 * [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder, custom fields and meta boxes, theme settings, gallery, sliders, accordeons, tabs
+* [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
+* [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency colors in RGBA-Mode
 * [Carbon Fields](https://github.com/htmlburger/carbon-fields) - custom fields, metaboxes, theme options etc. - the same as ACF Pro, but fully free and no have UI
 
 ## eCommerce
