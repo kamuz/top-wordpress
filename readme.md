@@ -25,6 +25,7 @@
 * [CMP Coming Soon & Maintenance](https://wordpress.org/plugins/cmp-coming-soon-maintenance/) - activate your Maintenance, Coming soon or Landing page with a single click
 * [Kirki](https://wordpress.org/plugins/kirki/) - allow theme developers to create rich experience for WordPress Customizer and included are more than 30 custom control types
 * [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you to easily require or recommend plugins for your WordPress themes
+* [Create Guten Block](https://github.com/ahmadawais/create-guten-block) - a zero-configuration developer toolkit for building WordPress Gutenberg block plugins
 
 ## Debug
 
