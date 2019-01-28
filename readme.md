@@ -52,6 +52,7 @@
 * [Simple History](https://wordpress.org/plugins/simple-history/) - shows recent changes made within WordPress, directly on your dashboard or on a separate page
 * [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
 * [WP-PageNavi](https://wordpress.org/plugins/wp-pagenavi/) - numerical pagination
+* [Classic Editor](https://wordpress.org/plugins/classic-editor/) - restores the Classic Editor instead Gutenberg
 
 ## Social
 
