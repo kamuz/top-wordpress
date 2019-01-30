@@ -107,4 +107,5 @@
 * [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/) - chat with your visitors, no third party connections required, there's no need to pay for live chat monthly subscriptions in order to better understand your visitors
 * [WP Job Manager](https://wordpress.org/plugins/wp-job-manager/) - lightweight job listing plugin for adding job-board like functionality
 * [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
-* [AnyComment](https://ru.wordpress.org/plugins/anycomment/) - is free blazing-fast commenting plugin, no dependency on third party services, all comments stored in your database.
+* [AnyComment](https://ru.wordpress.org/plugins/anycomment/) - is free blazing-fast commenting plugin, no dependency on third party services, all comments stored in your database
+* [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
