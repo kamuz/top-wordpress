@@ -27,16 +27,18 @@
 * [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you to easily require or recommend plugins for your WordPress themes
 * [Create Guten Block](https://github.com/ahmadawais/create-guten-block) - a zero-configuration developer toolkit for building WordPress Gutenberg block plugins
 * [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - dynamically display custom widget configurations on any page, post, category, post type, or archive page
+* [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - custom WordPress nav walker class for Bootstrap
+* [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 
 ## Debug
 
 * [Laps]() - light WordPress profiler
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 
-## Database
+## Backup
 
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
-* [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
+* [MultiSite Clone Duplicator](https://wordpress.org/plugins/multisite-clone-duplicator/) - duplicate site functionality to your network installation
 
 ## Content
 
@@ -81,6 +83,11 @@
 * [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder, custom fields and meta boxes, theme settings, gallery, sliders, accordeons, tabs
 * [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
 * [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency colors in RGBA-Mode
+* [ACF Star Rating](https://github.com/kevinruscoe/acf-star-rating) - a simple star rating field for ACF
+* [ACF Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - select field to load menu wordpress
+* [ACF Markdown](https://github.com/jensjns/acf-markdown-field) - text field with support Markdown
+* [ACF Icon Selector](https://github.com/Kreshnik/acf-field-icon-font) - an font icon selector field
+* [ACF Google Map Extended](https://github.com/codewahoo/acf-gme) - extending the functionality of the built-in Google Map field
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 * [Carbon Fields](https://github.com/htmlburger/carbon-fields) - custom fields, metaboxes, theme options etc. - the same as ACF Pro, but fully free and no have UI
 
@@ -110,3 +117,8 @@
 * [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
 * [AnyComment](https://ru.wordpress.org/plugins/anycomment/) - is free blazing-fast commenting plugin, no dependency on third party services, all comments stored in your database
 * [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
+
+## Security
+
+* [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
+* [Lockdown WP Admin](https://uk.wordpress.org/plugins/lockdown-wp-admin/) -  hide WordPress admin
