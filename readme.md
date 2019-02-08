@@ -94,6 +94,7 @@
 ## eCommerce
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
+* [WooCommerce Page Builder](https://codecanyon.net/item/woocommerce-page-builder/15534462) -  WPBakery Page Builder add-on for customize single product page, product archive page, cart page, checkout page, login, account page, account details.
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - complete eCommerce solution for selling digital products
 
 ## Search
@@ -122,9 +123,3 @@
 
 * [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
 * [Lockdown WP Admin](https://uk.wordpress.org/plugins/lockdown-wp-admin/) -  hide WordPress admin
-
-## Themes
-
-* []() - 
-
-## Page Builders
