@@ -6,8 +6,7 @@
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - enables to track your site and allows you to view key Google Analytics stats
 * [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
-* [The SEO Framework](https://wordpress.org/plugins/autodescription/) - provides an automated, accessible, unbranded, and a lightning-fast SEO solution
-
+* [The SEO Framework](https://wordpress.org/plugins/autodescription/) - complex lightning-fast SEO solution
 
 ## Performance
 
@@ -77,7 +76,7 @@
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
 
-## Custom Post Type, Page Builder and Metaboxes and UI elements
+## Custom Post Type, Page Builders and Metaboxes and UI elements
 
 * [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - help to create new custom post types
 * [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder, custom fields and meta boxes, theme settings, gallery, sliders, accordeons, tabs
@@ -90,6 +89,7 @@
 * [ACF Google Map Extended](https://github.com/codewahoo/acf-gme) - extending the functionality of the built-in Google Map field
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 * [Carbon Fields](https://github.com/htmlburger/carbon-fields) - custom fields, metaboxes, theme options etc. - the same as ACF Pro, but fully free and no have UI
+* [Elementor](https://wordpress.org/plugins/elementor/) - lightweight drag & drop editor for building web pages without code
 
 ## eCommerce
 
@@ -122,3 +122,9 @@
 
 * [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
 * [Lockdown WP Admin](https://uk.wordpress.org/plugins/lockdown-wp-admin/) -  hide WordPress admin
+
+## Themes
+
+* []() - 
+
+## Page Builders
