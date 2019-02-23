@@ -31,7 +31,7 @@
 
 ## Debug
 
-* [Laps]() - light WordPress profiler
+* [Laps](https://github.com/Rarst/laps) - light WordPress profiler
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 
 ## Backup
