@@ -57,7 +57,6 @@
 * [Classic Editor](https://wordpress.org/plugins/classic-editor/) - restores the Classic Editor instead Gutenberg
 * [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
 * [Shortcodes Ultimate](https://wordpress.org/plugins/shortcodes-ultimate/) -  collection of various visual and functional elements, which you can use in the post editor, text widgets and template files.
-* [Quotes Collection](https://ru.wordpress.org/plugins/quotes-collection/) - collect, manage and display your favourite quotations
 * [Page scroll to id](https://wordpress.org/plugins/page-scroll-to-id/) - smooth scrolling by hashtags for single and multiple pages
 
 ## Social
