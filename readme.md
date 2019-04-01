@@ -1,12 +1,11 @@
 ## SEO
 
-* [Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/) - automatically generate an XML sitemap
-* [All In One Schema.org Rich Snippets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/) - help give search engines a useful summary of your content to display (snippets)
+* [The SEO Framework](https://wordpress.org/plugins/autodescription/) - complex lightning-fast SEO solution - XML sitemap, robots.txt, check articles etc.
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - identify and remove brocken links
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - enables to track your site and allows you to view key Google Analytics stats
+* [All In One Schema.org Rich Snippets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/) - help give search engines a useful summary of your content to display (snippets)
 * [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
-* [The SEO Framework](https://wordpress.org/plugins/autodescription/) - complex lightning-fast SEO solution
 
 ## Performance
 
@@ -125,4 +124,4 @@
 ## Security
 
 * [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
-* [Lockdown WP Admin](https://uk.wordpress.org/plugins/lockdown-wp-admin/) -  hide WordPress admin
+* [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/) -  hide WordPress admin
