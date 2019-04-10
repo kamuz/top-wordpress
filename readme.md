@@ -98,7 +98,7 @@
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
 * [WooCommerce Page Builder](https://codecanyon.net/item/woocommerce-page-builder/15534462) -  WPBakery Page Builder add-on for customize single product page, product archive page, cart page, checkout page, login, account page, account details.
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - complete eCommerce solution for selling digital products
-* [Perfect WooCommerce Brands](https://wordpress.org/plugins/perfect-woocommerce-brands/) - add product brands to your WooCommerce site
+* [Wish List for WooCommerce](https://wordpress.org/plugins/wish-list-for-woocommerce/) - offers some options to add products to a wish list
 
 ## Search
 
@@ -125,4 +125,4 @@
 ## Security
 
 * [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
-* [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/) -  hide WordPress admin
+* [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/) - hide WordPress admin
