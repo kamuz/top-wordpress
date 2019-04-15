@@ -99,6 +99,7 @@
 * [WooCommerce Page Builder](https://codecanyon.net/item/woocommerce-page-builder/15534462) -  WPBakery Page Builder add-on for customize single product page, product archive page, cart page, checkout page, login, account page, account details.
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - complete eCommerce solution for selling digital products
 * [Wish List for WooCommerce](https://wordpress.org/plugins/wish-list-for-woocommerce/) - offers some options to add products to a wish list
+* [Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/) - lets you set and display prices for WooCommerce products in different currencies
 
 ## Search
 
