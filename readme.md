@@ -92,6 +92,7 @@
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 * [Carbon Fields](https://github.com/htmlburger/carbon-fields) - custom fields, metaboxes, theme options etc. - the same as ACF Pro, but fully free and no have UI
 * [Elementor](https://wordpress.org/plugins/elementor/) - lightweight drag & drop editor for building web pages without code
+* [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace the default taxonomy boxes with a custom metabox that uses radio buttons… effectively limiting each post to a single term in that taxonomy.
 
 ## eCommerce
 
