@@ -72,6 +72,7 @@
 
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [Contact Form 7 – Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - This plugin adds repeatable groups of fields to Contact Form 7
+* [Contact Form 7 Dynamic Text Extension](https://wordpress.org/plugins/contact-form-7-dynamic-text-extension/) - adding dynamic content post, product, user etc.
 * [Gravity Forms](https://www.gravityforms.com/) - advanced forms
 * [Formidable Forms](https://formidableforms.com/) - advanced forms
 * [HappyForms](https://wordpress.org/plugins/happyforms/) - free drag and drop form builder for creating forms
