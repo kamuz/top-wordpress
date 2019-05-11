@@ -57,6 +57,7 @@
 * [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
 * [Shortcodes Ultimate](https://wordpress.org/plugins/shortcodes-ultimate/) -  collection of various visual and functional elements, which you can use in the post editor, text widgets and template files.
 * [Page scroll to id](https://wordpress.org/plugins/page-scroll-to-id/) - smooth scrolling by hashtags for single and multiple pages
+* [User Menus](https://wordpress.org/plugins/user-menus/) - gives more control over your nav menu by allowing you to apply visibility controls to menu items e.g who can see each menu item (everyone, logged out users, logged in users, specific user roles)
 
 ## Social
 
