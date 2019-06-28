@@ -104,6 +104,7 @@
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - complete eCommerce solution for selling digital products
 * [Wish List for WooCommerce](https://wordpress.org/plugins/wish-list-for-woocommerce/) - offers some options to add products to a wish list
 * [Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/) - lets you set and display prices for WooCommerce products in different currencies
+* [Art WooCommerce Order One Click](https://wordpress.org/plugins/art-woocommerce-order-one-click/) - turn on the Buy/Order button in one click
 
 ## Search
 
