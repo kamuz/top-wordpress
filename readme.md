@@ -79,6 +79,7 @@
 * [HappyForms](https://wordpress.org/plugins/happyforms/) - free drag and drop form builder for creating forms
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
+* [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
 
 ## Custom Post Type, Page Builders and Metaboxes and UI elements
 
