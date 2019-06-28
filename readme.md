@@ -19,11 +19,9 @@
 * [WP-CLI](https://wp-cli.org/) - command-line interface for WordPress
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - scan your theme and make sure that it uses the latest WordPress standards and practices
-* [Custom Header Footer Scripts for Customizer](https://wordpress.org/plugins/custom-script-for-customizer/) - Add custom script to header and footer through WordPress Customizer
 * [CMP Coming Soon & Maintenance](https://wordpress.org/plugins/cmp-coming-soon-maintenance/) - activate your Maintenance, Coming soon or Landing page with a single click
 * [Kirki](https://wordpress.org/plugins/kirki/) - allow theme developers to create rich experience for WordPress Customizer and included are more than 30 custom control types
 * [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you to easily require or recommend plugins for your WordPress themes
-* [Create Guten Block](https://github.com/ahmadawais/create-guten-block) - a zero-configuration developer toolkit for building WordPress Gutenberg block plugins
 * [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - dynamically display custom widget configurations on any page, post, category, post type, or archive page
 * [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - custom WordPress nav walker class for Bootstrap
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
@@ -69,6 +67,7 @@
 * [Adminimize](https://wordpress.org/plugins/adminimize/) - clean up the WordPress admin area, for example activate/deactivate every part of the menu and the sub-menu etc.
 * [Clean WP Admin Menu](https://wordpress.org/plugins/clean-wp-admin-menu/) - you can make rarely used items in the admin menu invisible until you need them
 * [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager provides you features to edit, delete, upload, download, copy and paste files and folders.
+* [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel.
 
 ## Email and Forms
 
