@@ -57,6 +57,7 @@
 * [Page scroll to id](https://wordpress.org/plugins/page-scroll-to-id/) - smooth scrolling by hashtags for single and multiple pages
 * [User Menus](https://wordpress.org/plugins/user-menus/) - gives more control over your nav menu by allowing you to apply visibility controls to menu items e.g who can see each menu item (everyone, logged out users, logged in users, specific user roles)
 * [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code
+* [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - the plugin will automatically display all standard WordPress images and galleries in a simple, minimalistic lightbox popup
 
 ## Social
 
