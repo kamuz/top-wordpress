@@ -25,6 +25,7 @@
 * [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - dynamically display custom widget configurations on any page, post, category, post type, or archive page
 * [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - custom WordPress nav walker class for Bootstrap
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
+* [WP Quick Provision](https://ru.wordpress.org/plugins/wp-quick-provision/) - automatically installing themes and plugins via config file or WordPress.org username favorites.
 
 ## Debug
 
