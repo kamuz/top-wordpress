@@ -59,6 +59,8 @@
 * [User Menus](https://wordpress.org/plugins/user-menus/) - gives more control over your nav menu by allowing you to apply visibility controls to menu items e.g who can see each menu item (everyone, logged out users, logged in users, specific user roles)
 * [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code
 * [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - the plugin will automatically display all standard WordPress images and galleries in a simple, minimalistic lightbox popup
+* [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
+* [Attachment Pages Redirect](https://wordpress.org/plugins/attachment-pages-redirect/) - redirect visitors from attachment page to the parent post
 
 ## Social
 
@@ -82,6 +84,8 @@
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
 * [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
+* [Contact Form Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for Contact Form 7 to thwart spambots without using captcha
+* [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) -checks your comments and contact form submissions against our global database of spam to prevent your site from publishing malicious content.
 
 ## Custom Post Type, Page Builders and Metaboxes and UI elements
 
