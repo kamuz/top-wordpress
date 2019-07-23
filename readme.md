@@ -2,16 +2,17 @@
 
 * [The SEO Framework](https://wordpress.org/plugins/autodescription/) - complex lightning-fast SEO solution - XML sitemap, robots.txt, check articles etc.
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - identify and remove brocken links
-* [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - enables to track your site and allows you to view key Google Analytics stats
 * [All In One Schema.org Rich Snippets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/) - help give search engines a useful summary of your content to display (snippets)
 * [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
+* [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
+* [Simple 301 Redirects](https://wordpress.org/plugins/simple-301-redirects/) - provides an easy method of redirecting requests to another page on your site or elsewhere on the web
 
 ## Performance
 
 * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - static caching plugin
 * [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying HTML, CSS and JavaScript files
-* [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG.
+* [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG
 * [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - unlike other similar plugins, it lets you delete only specific posts revisions, not all your site revisions at once
 
 ## Development
@@ -25,7 +26,7 @@
 * [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - dynamically display custom widget configurations on any page, post, category, post type, or archive page
 * [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - custom WordPress nav walker class for Bootstrap
 * [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
-* [WP Quick Provision](https://ru.wordpress.org/plugins/wp-quick-provision/) - automatically installing themes and plugins via config file or WordPress.org username favorites.
+* [WP Quick Provision](https://ru.wordpress.org/plugins/wp-quick-provision/) - automatically installing themes and plugins via config file or WordPress.org username favorites
 
 ## Debug
 
@@ -54,11 +55,11 @@
 * [WP-PageNavi](https://wordpress.org/plugins/wp-pagenavi/) - numerical pagination
 * [Classic Editor](https://wordpress.org/plugins/classic-editor/) - restores the Classic Editor instead Gutenberg
 * [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
-* [Shortcodes Ultimate](https://wordpress.org/plugins/shortcodes-ultimate/) -  collection of various visual and functional elements, which you can use in the post editor, text widgets and template files.
+* [Shortcodes Ultimate](https://wordpress.org/plugins/shortcodes-ultimate/) -  collection of various visual and functional elements, which you can use in the post editor, text widgets and template files
 * [Page scroll to id](https://wordpress.org/plugins/page-scroll-to-id/) - smooth scrolling by hashtags for single and multiple pages
 * [User Menus](https://wordpress.org/plugins/user-menus/) - gives more control over your nav menu by allowing you to apply visibility controls to menu items e.g who can see each menu item (everyone, logged out users, logged in users, specific user roles)
-* [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code
-* [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - the plugin will automatically display all standard WordPress images and galleries in a simple, minimalistic lightbox popup
+* [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code.
+* [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - the plugin will automatically display all standard WordPress images and galleries in a simple, minimalistic lightbox popup.
 * [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 * [Attachment Pages Redirect](https://wordpress.org/plugins/attachment-pages-redirect/) - redirect visitors from attachment page to the parent post
 
@@ -70,8 +71,8 @@
 
 * [Adminimize](https://wordpress.org/plugins/adminimize/) - clean up the WordPress admin area, for example activate/deactivate every part of the menu and the sub-menu etc.
 * [Clean WP Admin Menu](https://wordpress.org/plugins/clean-wp-admin-menu/) - you can make rarely used items in the admin menu invisible until you need them
-* [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager provides you features to edit, delete, upload, download, copy and paste files and folders.
-* [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel.
+* [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager provides you features to edit, delete, upload, download, copy and paste files and folders
+* [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel
 
 ## Email and Forms
 
@@ -85,7 +86,7 @@
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
 * [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
 * [Contact Form Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for Contact Form 7 to thwart spambots without using captcha
-* [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) -checks your comments and contact form submissions against our global database of spam to prevent your site from publishing malicious content.
+* [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) -checks your comments and contact form submissions against our global database of spam to prevent your site from publishing malicious content
 
 ## Custom Post Type, Page Builders and Metaboxes and UI elements
 
@@ -101,7 +102,7 @@
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 * [Carbon Fields](https://github.com/htmlburger/carbon-fields) - custom fields, metaboxes, theme options etc. - the same as ACF Pro, but fully free and no have UI
 * [Elementor](https://wordpress.org/plugins/elementor/) - lightweight drag & drop editor for building web pages without code
-* [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace the default taxonomy boxes with a custom metabox that uses radio buttons… effectively limiting each post to a single term in that taxonomy.
+* [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace the default taxonomy boxes with a custom metabox that uses radio buttons… effectively limiting each post to a single term in that taxonomy
 
 ## eCommerce
 
@@ -115,7 +116,7 @@
 ## Search
 
 * [Ajax Search for WooCommerce](https://wordpress.org/plugins/ajax-search-for-woocommerce/) - will display the results instantly while typing in an inputbox
-* [FacetWP](https://facetwp.com/) - advanced filtering and faceted search for WordPress and WooCommerce.
+* [FacetWP](https://facetwp.com/) - advanced filtering and faceted search for WordPress and WooCommerce
 * [SearchWP](https://searchwp.com/) - search in E-Commerce product details, PDF & document content, custom field content, shortcode output, taxonomy term etc.
 
 ## Internationazation
