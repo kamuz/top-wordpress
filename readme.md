@@ -137,6 +137,7 @@
 * [WP Job Manager](https://wordpress.org/plugins/wp-job-manager/) - lightweight job listing plugin for adding job-board like functionality
 * [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
 * [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
+* [Login for WordPress](https://wordpress.org/plugins/wp-facebook-login/) - a facebook login button for your *wp-login.php* page
 
 ## Security
 
