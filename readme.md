@@ -104,6 +104,10 @@
 * [Elementor](https://wordpress.org/plugins/elementor/) - lightweight drag & drop editor for building web pages without code
 * [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace the default taxonomy boxes with a custom metabox that uses radio buttons… effectively limiting each post to a single term in that taxonomy
 
+## Gutenberg
+
+* [Grids](https://wordpress.org/plugins/grids/) - a layout builder is a tool that helps you creating visual structures in your page, from a simple layout made by adjacent columns, to more complex compositions
+
 ## eCommerce
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
