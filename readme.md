@@ -139,6 +139,7 @@
 * [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
 * [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
 * [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
+* [Simple Comment Editing](https://wordpress.org/plugins/simple-comment-editing/) - gives anonymous users the ability to edit and/or delete their comments for a period of time
 
 ## Security
 
