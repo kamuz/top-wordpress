@@ -63,6 +63,7 @@
 * [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - the plugin will automatically display all standard WordPress images and galleries in a simple, minimalistic lightbox popup.
 * [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 * [Attachment Pages Redirect](https://wordpress.org/plugins/attachment-pages-redirect/) - redirect visitors from attachment page to the parent post
+* [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
 
 ## Social
 
