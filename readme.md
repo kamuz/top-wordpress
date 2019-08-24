@@ -110,6 +110,7 @@
 
 * [Grids](https://wordpress.org/plugins/grids/) - a layout builder is a tool that helps you creating visual structures in your page, from a simple layout made by adjacent columns, to more complex compositions
 * [CoBlocks](https://wordpress.org/plugins/coblocks/) - collection of page building WordPress blocks for the Gutenberg
+* [Qubely](https://wordpress.org/plugins/qubely/) - Gutenberg blocks with layout packs and readymade blocks collection
 
 ## eCommerce
 
