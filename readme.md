@@ -152,3 +152,4 @@
 ## Data Visualization
 
 * [M Chart](https://wordpress.org/plugins/m-chart/) - allows you to manage data sets via a spreadsheet interface and present that data in chart form via the Chart.js or Highcharts chart libraries
+* [Visualizer](https://wordpress.org/plugins/visualizer/) - uses Google Visualization API, DataTables.net and ChartJS to add responsive & animated charts/diagrams
