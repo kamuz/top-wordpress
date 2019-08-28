@@ -148,3 +148,7 @@
 
 * [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
 * [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/) - hide WordPress admin
+
+## Data Visualization
+
+* [M Chart](https://wordpress.org/plugins/m-chart/) - allows you to manage data sets via a spreadsheet interface and present that data in chart form via the Chart.js or Highcharts chart libraries
