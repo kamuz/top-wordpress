@@ -64,10 +64,12 @@
 * [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 * [Attachment Pages Redirect](https://wordpress.org/plugins/attachment-pages-redirect/) - redirect visitors from attachment page to the parent post
 * [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
+* [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - allows to display a list of the most recent comments with avatar and excerpt, choose which to show newer comments first or older comments first and choose comments from any post type.
 
 ## Social
 
 * [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - display completely customizable, responsive and search engine crawlable versions of your Twitter feed on your website
+* [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
 
 ## Admin panel
 
