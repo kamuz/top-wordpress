@@ -8,6 +8,7 @@
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Simple 301 Redirects](https://wordpress.org/plugins/simple-301-redirects/) - provides an easy method of redirecting requests to another page on your site or elsewhere on the web
 * [Custom Permalinks](https://wordpress.org/plugins/custom-permalinks/) - det the URL of any post, page, tag or category to anything you want
+* [HTTP / HTTPS Remover](https://wordpress.org/plugins/http-https-remover/) - SSL Mixed Content Fix
 
 ## Performance
 
@@ -65,6 +66,8 @@
 * [Attachment Pages Redirect](https://wordpress.org/plugins/attachment-pages-redirect/) - redirect visitors from attachment page to the parent post
 * [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
 * [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - allows to display a list of the most recent comments with avatar and excerpt, choose which to show newer comments first or older comments first and choose comments from any post type.
+* [Shortcoder](https://wordpress.org/plugins/shortcoder/) - allows to create a custom shortcode and store HTML, Javascript and other snippets in it
+* []
 
 ## Social
 
@@ -122,6 +125,7 @@
 * [Wish List for WooCommerce](https://wordpress.org/plugins/wish-list-for-woocommerce/) - offers some options to add products to a wish list
 * [Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/) - lets you set and display prices for WooCommerce products in different currencies
 * [Art WooCommerce Order One Click](https://wordpress.org/plugins/art-woocommerce-order-one-click/) - turn on the Buy/Order button in one click
+* [WP Store](https://wordpress.org/plugins/wp-store-lite/) - a new solution for creating an online store
 
 ## Search
 
