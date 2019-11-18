@@ -126,6 +126,7 @@
 * [Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/) - lets you set and display prices for WooCommerce products in different currencies
 * [Art WooCommerce Order One Click](https://wordpress.org/plugins/art-woocommerce-order-one-click/) - turn on the Buy/Order button in one click
 * [WP Store](https://wordpress.org/plugins/wp-store-lite/) - a new solution for creating an online store
+* [WooCommerce Cart Tab](https://wordpress.org/plugins/woocommerce-cart-tab/) - adds a sitewide tab that displays the number of products in the cart
 
 ## Search
 
