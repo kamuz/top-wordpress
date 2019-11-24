@@ -6,7 +6,6 @@
 * [All In One Schema.org Rich Snippets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/) - help give search engines a useful summary of your content to display (snippets)
 * [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
-* [Simple 301 Redirects](https://wordpress.org/plugins/simple-301-redirects/) - provides an easy method of redirecting requests to another page on your site or elsewhere on the web
 * [Custom Permalinks](https://wordpress.org/plugins/custom-permalinks/) - det the URL of any post, page, tag or category to anything you want
 * [HTTP / HTTPS Remover](https://wordpress.org/plugins/http-https-remover/) - SSL Mixed Content Fix
 
