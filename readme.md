@@ -12,7 +12,6 @@
 ## Performance
 
 * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - static caching plugin
-* [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - merging and minifying HTML, CSS and JavaScript files
 * [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG
 * [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - unlike other similar plugins, it lets you delete only specific posts revisions, not all your site revisions at once
 
