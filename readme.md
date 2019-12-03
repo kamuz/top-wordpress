@@ -8,6 +8,7 @@
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Custom Permalinks](https://wordpress.org/plugins/custom-permalinks/) - det the URL of any post, page, tag or category to anything you want
 * [HTTP / HTTPS Remover](https://wordpress.org/plugins/http-https-remover/) - SSL Mixed Content Fix
+* [Yandex Metrica](https://wordpress.org/plugins/yandex-metrica/) - Yandex Metrica in your WordPress site
 
 ## Performance
 
