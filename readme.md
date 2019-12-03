@@ -1,6 +1,6 @@
 ## SEO
 
-* [The SEO Framework](https://wordpress.org/plugins/autodescription/) - complex lightning-fast SEO solution - XML sitemap, robots.txt, check articles etc.
+* [Rank Math](https://wordpress.org/plugins/seo-by-rank-math/) - help websites owner get access to the SEO tools they need to improve their SEO and attract more traffic to their website
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - identify and remove brocken links
 * [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - enables to track your site and allows you to view key Google Analytics stats
 * [All In One Schema.org Rich Snippets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/) - help give search engines a useful summary of your content to display (snippets)
@@ -84,6 +84,7 @@
 * [Contact Form 7 Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - This plugin adds repeatable groups of fields to Contact Form 7
 * [Contact Form 7 Dynamic Text Extension](https://wordpress.org/plugins/contact-form-7-dynamic-text-extension/) - adding dynamic content post, product, user etc.
 * [Contact Form 7 Phone Mask Field](https://wordpress.org/plugins/cf7-phone-mask-field/) - adds a new field in which you can set the phone number mask or other to Contact Form 7
+* [Contact Form CFDB7](https://wordpress.org/plugins/contact-form-cfdb7/) - saves contact form 7 submissions to your WordPress database
 * [Gravity Forms](https://www.gravityforms.com/) - advanced forms
 * [Formidable Forms](https://formidableforms.com/) - advanced forms
 * [HappyForms](https://wordpress.org/plugins/happyforms/) - free drag and drop form builder for creating forms
