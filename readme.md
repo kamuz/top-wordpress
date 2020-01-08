@@ -74,7 +74,7 @@
 
 ## Admin panel
 
-* [Adminimize](https://wordpress.org/plugins/adminimize/) - clean up the WordPress admin area, for example activate/deactivate every part of the menu and the sub-menu etc.
+* [WP Custom Admin Interface](https://wordpress.org/plugins/wp-custom-admin-interface/) - customize the WordPress admin menu, toolbar, login interfaces etc.
 * [Clean WP Admin Menu](https://wordpress.org/plugins/clean-wp-admin-menu/) - you can make rarely used items in the admin menu invisible until you need them
 * [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager provides you features to edit, delete, upload, download, copy and paste files and folders
 * [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel
