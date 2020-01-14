@@ -1,14 +1,12 @@
 ## SEO
 
 * [Rank Math](https://wordpress.org/plugins/seo-by-rank-math/) - help websites owner get access to the SEO tools they need to improve their SEO and attract more traffic to their website
+* [Site Kit by Google](https://wordpress.org/plugins/google-site-kit/) - multiple Google products directly on the WordPress dashboard - Google Search Console, Google Analytics, Google PageSpeed Insights, Google Tag Manager etc.
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - identify and remove brocken links
-* [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/) - enables to track your site and allows you to view key Google Analytics stats
-* [All In One Schema.org Rich Snippets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/) - help give search engines a useful summary of your content to display (snippets)
-* [Cyr to Lat enhanced](https://wordpress.org/plugins/cyr3lat/) - converts Cyrillic, European and Georgian characters in post, term slugs and media file names to Latin characters
+* [Cyr-To-Lat](https://wordpress.org/plugins/cyr2lat/) - converts Cyrillic characters in post, page and term slugs to Latin characters
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Custom Permalinks](https://wordpress.org/plugins/custom-permalinks/) - det the URL of any post, page, tag or category to anything you want
 * [HTTP / HTTPS Remover](https://wordpress.org/plugins/http-https-remover/) - SSL Mixed Content Fix
-* [Yandex Metrica](https://wordpress.org/plugins/yandex-metrica/) - Yandex Metrica in your WordPress site
 
 ## Performance
 
