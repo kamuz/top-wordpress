@@ -13,6 +13,7 @@
 * [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG
 * [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - unlike other similar plugins, it lets you delete only specific posts revisions, not all your site revisions at once
 * [WP Rocket](https://wp-rocket.me/) - multipurpose, premium and most popular plugin for improve performance WordPress site
+* [Autoptimize](https://wordpress.org/plugins/autoptimize/) - compress HTML, CSS, JavaScript, Google Fonts, remove query strings and emojis, Lazy Load for images
 
 ## Development
 
