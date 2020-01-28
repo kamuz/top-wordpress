@@ -37,6 +37,7 @@
 
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
 * [MultiSite Clone Duplicator](https://wordpress.org/plugins/multisite-clone-duplicator/) - duplicate site functionality to your network installation
+* [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - backup your files and database into the cloud and restore with a single click
 
 ## Content
 
