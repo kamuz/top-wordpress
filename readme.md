@@ -68,6 +68,7 @@
 * [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
 * [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - allows to display a list of the most recent comments with avatar and excerpt, choose which to show newer comments first or older comments first and choose comments from any post type.
 * [Shortcoder](https://wordpress.org/plugins/shortcoder/) - allows to create a custom shortcode and store HTML, Javascript and other snippets in it
+* [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts, pages, products and any custom post types
 
 ## Social
 
