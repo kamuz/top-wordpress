@@ -159,6 +159,7 @@
 * [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
 * [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/) - hide WordPress admin
 * [Google Authenticator](https://wordpress.org/plugins/google-authenticator/) - gives you two-factor authentication using the Google Authenticator app
+* [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator (username of WordPress by default)
 
 ## Data Visualization
 
