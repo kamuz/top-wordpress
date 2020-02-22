@@ -77,10 +77,10 @@
 
 ## Admin panel
 
-* [WP Custom Admin Interface](https://wordpress.org/plugins/wp-custom-admin-interface/) - customize the WordPress admin menu, toolbar, login interfaces etc.
-* [Clean WP Admin Menu](https://wordpress.org/plugins/clean-wp-admin-menu/) - you can make rarely used items in the admin menu invisible until you need them
+* [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role capabilities easy, with a few clicks
 * [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager provides you features to edit, delete, upload, download, copy and paste files and folders
 * [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel
+* [Admin Slug Column](https://wordpress.org/plugins/admin-slug-column/) - adds the post slug and page url path into the admin columns
 
 ## Email and Forms
 
@@ -146,7 +146,6 @@
 
 ## Users, community and membership
 
-* [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role capabilities easy, with a few clicks
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
 * [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/) - chat with your visitors, no third party connections required, there's no need to pay for live chat monthly subscriptions in order to better understand your visitors
