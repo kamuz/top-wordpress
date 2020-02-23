@@ -3,7 +3,6 @@
 * [Rank Math](https://wordpress.org/plugins/seo-by-rank-math/) - help websites owner get access to the SEO tools they need to improve their SEO and attract more traffic to their website
 * [Site Kit by Google](https://wordpress.org/plugins/google-site-kit/) - multiple Google products directly on the WordPress dashboard - Google Search Console, Google Analytics, Google PageSpeed Insights, Google Tag Manager etc.
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - identify and remove brocken links
-* [Cyr-To-Lat](https://wordpress.org/plugins/cyr2lat/) - converts Cyrillic characters in post, page and term slugs to Latin characters
 * [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
 * [Custom Permalinks](https://wordpress.org/plugins/custom-permalinks/) - det the URL of any post, page, tag or category to anything you want
 * [HTTP / HTTPS Remover](https://wordpress.org/plugins/http-https-remover/) - SSL Mixed Content Fix
@@ -36,9 +35,8 @@
 
 ## Backup
 
-* [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - backup all site by one click without any settings
-* [MultiSite Clone Duplicator](https://wordpress.org/plugins/multisite-clone-duplicator/) - duplicate site functionality to your network installation
 * [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - backup your files and database into the cloud and restore with a single click
+* [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/) - 1-click migration for your database, media, themes and plugins
 
 ## Content
 
@@ -58,16 +56,12 @@
 * [WP-PageNavi](https://wordpress.org/plugins/wp-pagenavi/) - numerical pagination
 * [Classic Editor](https://wordpress.org/plugins/classic-editor/) - restores the Classic Editor instead Gutenberg
 * [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
-* [Shortcodes Ultimate](https://wordpress.org/plugins/shortcodes-ultimate/) -  collection of various visual and functional elements, which you can use in the post editor, text widgets and template files
-* [Page scroll to id](https://wordpress.org/plugins/page-scroll-to-id/) - smooth scrolling by hashtags for single and multiple pages
 * [User Menus](https://wordpress.org/plugins/user-menus/) - gives more control over your nav menu by allowing you to apply visibility controls to menu items e.g who can see each menu item (everyone, logged out users, logged in users, specific user roles)
 * [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code.
 * [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - the plugin will automatically display all standard WordPress images and galleries in a simple, minimalistic lightbox popup.
 * [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
-* [Attachment Pages Redirect](https://wordpress.org/plugins/attachment-pages-redirect/) - redirect visitors from attachment page to the parent post
 * [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
 * [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - allows to display a list of the most recent comments with avatar and excerpt, choose which to show newer comments first or older comments first and choose comments from any post type.
-* [Shortcoder](https://wordpress.org/plugins/shortcoder/) - allows to create a custom shortcode and store HTML, Javascript and other snippets in it
 * [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts, pages, products and any custom post types
 
 ## Social
@@ -81,28 +75,26 @@
 * [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager provides you features to edit, delete, upload, download, copy and paste files and folders
 * [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel
 * [Admin Slug Column](https://wordpress.org/plugins/admin-slug-column/) - adds the post slug and page url path into the admin columns
+* [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace the default taxonomy boxes with a custom metabox that uses radio buttons… effectively limiting each post to a single term in that taxonomy
 
 ## Email and Forms
 
+* [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
 * [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
 * [Contact Form 7 Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - This plugin adds repeatable groups of fields to Contact Form 7
 * [Contact Form 7 Dynamic Text Extension](https://wordpress.org/plugins/contact-form-7-dynamic-text-extension/) - adding dynamic content post, product, user etc.
 * [Contact Form 7 Phone Mask Field](https://wordpress.org/plugins/cf7-phone-mask-field/) - adds a new field in which you can set the phone number mask or other to Contact Form 7
 * [Contact Form 7 Database](https://wordpress.org/plugins/contact-form-cfdb7/) - saves contact form 7 submissions to your WordPress database
+* [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for your form to thwart spambots without using captcha
 * [Gravity Forms](https://www.gravityforms.com/) - advanced forms
 * [Formidable Forms](https://formidableforms.com/) - advanced forms
-* [HappyForms](https://wordpress.org/plugins/happyforms/) - free drag and drop form builder for creating forms
-* [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - lets you build flexible forms using the power of Advanced Custom Fields
 * [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
 * [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
-* [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
-* [Contact Form Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for Contact Form 7 to thwart spambots without using captcha
 * [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) -checks your comments and contact form submissions against our global database of spam to prevent your site from publishing malicious content
 
-## Custom Post Type, Page Builders and Metaboxes and UI elements
+## Custom Fields, metaboxes and theme options
 
-* [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - help to create new custom post types
-* [Advanced Custom Fields Pro](https://wordpress.org/plugins/advanced-custom-fields/) - page builder, custom fields and meta boxes, theme settings, gallery, sliders, accordeons, tabs
+* [ACF Pro](https://www.advancedcustomfields.com/pro/) - page builder, custom fields and meta boxes, theme settings, gallery, sliders, accordeons, tabs
 * [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
 * [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency colors in RGBA-Mode
 * [ACF Star Rating](https://github.com/kevinruscoe/acf-star-rating) - a simple star rating field for ACF
@@ -112,25 +104,28 @@
 * [ACF Google Map Extended](https://github.com/codewahoo/acf-gme) - extending the functionality of the built-in Google Map field
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 * [Carbon Fields](https://github.com/htmlburger/carbon-fields) - custom fields, metaboxes, theme options etc. - the same as ACF Pro, but fully free and no have UI
-* [Elementor](https://wordpress.org/plugins/elementor/) - lightweight drag & drop editor for building web pages without code
-* [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace the default taxonomy boxes with a custom metabox that uses radio buttons… effectively limiting each post to a single term in that taxonomy
+
+## Custom Post Type
+
+* [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - help to create new custom post types
+
+## Page Builders
+
+* [Elementor Pro](https://elementor.com/) - lightweight drag & drop editor for building web pages without code
+* [JetBlocks](https://crocoblock.com/plugins/jetblocks/) - header & footer plugin for Elementor
 
 ## Gutenberg
 
 * [Grids](https://wordpress.org/plugins/grids/) - a layout builder is a tool that helps you creating visual structures in your page, from a simple layout made by adjacent columns, to more complex compositions
 * [CoBlocks](https://wordpress.org/plugins/coblocks/) - collection of page building WordPress blocks for the Gutenberg
 * [Qubely](https://wordpress.org/plugins/qubely/) - Gutenberg blocks with layout packs and readymade blocks collection
-* [Gutenberg Map Block for Google Maps](https://wordpress.org/plugins/map-block-gutenberg/) - add Google Maps to your website
 
 ## eCommerce
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
 * [WooCommerce Page Builder](https://codecanyon.net/item/woocommerce-page-builder/15534462) -  WPBakery Page Builder add-on for customize single product page, product archive page, cart page, checkout page, login, account page, account details.
-* [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - complete eCommerce solution for selling digital products
 * [Wish List for WooCommerce](https://wordpress.org/plugins/wish-list-for-woocommerce/) - offers some options to add products to a wish list
 * [Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/) - lets you set and display prices for WooCommerce products in different currencies
-* [Art WooCommerce Order One Click](https://wordpress.org/plugins/art-woocommerce-order-one-click/) - turn on the Buy/Order button in one click
-* [WP Store](https://wordpress.org/plugins/wp-store-lite/) - a new solution for creating an online store
 * [WooCommerce Cart Tab](https://wordpress.org/plugins/woocommerce-cart-tab/) - adds a sitewide tab that displays the number of products in the cart
 
 ## Search
@@ -148,8 +143,6 @@
 
 * [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
 * [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
-* [WP Live Chat Support](https://wordpress.org/plugins/wp-live-chat-support/) - chat with your visitors, no third party connections required, there's no need to pay for live chat monthly subscriptions in order to better understand your visitors
-* [WP Job Manager](https://wordpress.org/plugins/wp-job-manager/) - lightweight job listing plugin for adding job-board like functionality
 * [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
 * [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
 * [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
