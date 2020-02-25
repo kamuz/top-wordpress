@@ -120,13 +120,15 @@
 * [CoBlocks](https://wordpress.org/plugins/coblocks/) - collection of page building WordPress blocks for the Gutenberg
 * [Qubely](https://wordpress.org/plugins/qubely/) - Gutenberg blocks with layout packs and readymade blocks collection
 
-## eCommerce
+## WooCommerce
 
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
 * [WooCommerce Page Builder](https://codecanyon.net/item/woocommerce-page-builder/15534462) -  WPBakery Page Builder add-on for customize single product page, product archive page, cart page, checkout page, login, account page, account details.
 * [Wish List for WooCommerce](https://wordpress.org/plugins/wish-list-for-woocommerce/) - offers some options to add products to a wish list
 * [Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/) - lets you set and display prices for WooCommerce products in different currencies
 * [WooCommerce Cart Tab](https://wordpress.org/plugins/woocommerce-cart-tab/) - adds a sitewide tab that displays the number of products in the cart
+* [Booster Plus](https://booster.io/) - add awesome powerful features for WooCommerce like bulk price converter, multi currency, currency per product etc.
+* [WooSwipe](https://wordpress.org/plugins/wooswipe/) - gallery plugin based on PhotoSwipe and slick carousel.
 
 ## Search
 
