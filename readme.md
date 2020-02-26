@@ -127,7 +127,6 @@
 - [Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/) - lets you set and display prices for WooCommerce products in different currencies
 - [WooCommerce Cart Tab](https://wordpress.org/plugins/woocommerce-cart-tab/) - adds a sitewide tab that displays the number of products in the cart
 - [Booster Plus](https://booster.io/) - add awesome powerful features for WooCommerce like bulk price converter, multi currency, currency per product etc.
-- [WooSwipe](https://wordpress.org/plugins/wooswipe/) - gallery plugin based on PhotoSwipe and slick carousel.
 
 ## Search
 
