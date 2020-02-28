@@ -120,6 +120,7 @@
 - [JetElements](https://crocoblock.com/plugins/jetelements/) - the must-have widgets for Elementor
 - [JetEngine](https://crocoblock.com/plugins/jetengine/) - adding & editing dynamic content
 - [JetMenu](https://crocoblock.com/plugins/jetmenu/) - mega menu for Elementor
+- [JetParallax](https://jetparallax.zemez.io/) - allowing to create mesmerizing parallax effects
 - [JetPopup](https://crocoblock.com/plugins/jetpopup/) - stylish popup builder for Elementor
 - [JetProductGallery](https://crocoblock.com/plugins/jetproductgallery/) - advanced WooCommerce product gallery
 - [JetReviews](https://crocoblock.com/plugins/jetreviews/) - reviews widget for Elementor
