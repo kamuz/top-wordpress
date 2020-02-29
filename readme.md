@@ -112,25 +112,25 @@
 ## Elementor
 
 - [Elementor Pro](https://elementor.com/) - lightweight drag & drop editor for building web pages without code
-- [JetAppointment](https://crocoblock.com/plugins/jetappointment/) - appointment plugin for Elementor
-- [JetBlocks](https://crocoblock.com/plugins/jetblocks/) - header & footer plugin for Elementor
-- [JetBlog](https://crocoblock.com/plugins/jetblog/) - showcase and query publications using smart blogging widgets
-- [JetBooking](https://crocoblock.com/plugins/jetbooking/) - booking functionality for Elementor
-- [JetCompareWishlist](https://crocoblock.com/plugins/jetcomparewishlist/) - add compare and wishlist functionality
-- [JetElements](https://crocoblock.com/plugins/jetelements/) - the must-have widgets for Elementor
+- [JetAppointment](https://crocoblock.com/plugins/jetappointment/) - appointment functionality
+- [JetBlocks](https://crocoblock.com/plugins/jetblocks/) - custom header & footer
+- [JetBlog](https://crocoblock.com/plugins/jetblog/) - blogging widgets
+- [JetBooking](https://crocoblock.com/plugins/jetbooking/) - booking functionality
+- [JetCompareWishlist](https://crocoblock.com/plugins/jetcomparewishlist/) - compare and wishlist functionality
+- [JetElements](https://crocoblock.com/plugins/jetelements/) - the must-have widgets
 - [JetEngine](https://crocoblock.com/plugins/jetengine/) - adding & editing dynamic content
-- [JetMenu](https://crocoblock.com/plugins/jetmenu/) - mega menu for Elementor
-- [JetParallax](https://jetparallax.zemez.io/) - allowing to create mesmerizing parallax effects
-- [JetPopup](https://crocoblock.com/plugins/jetpopup/) - stylish popup builder for Elementor
+- [JetMenu](https://crocoblock.com/plugins/jetmenu/) - mega menu
+- [JetParallax](https://jetparallax.zemez.io/) - parallax effects
+- [JetPopup](https://crocoblock.com/plugins/jetpopup/) - stylish popup builder
 - [JetProductGallery](https://crocoblock.com/plugins/jetproductgallery/) - advanced WooCommerce product gallery
-- [JetReviews](https://crocoblock.com/plugins/jetreviews/) - reviews widget for Elementor
-- [JetSearch](https://crocoblock.com/plugins/jetsearch/) - AJAX search widget for Elementor
+- [JetReviews](https://crocoblock.com/plugins/jetreviews/) - reviews widget
+- [JetSearch](https://crocoblock.com/plugins/jetsearch/) - AJAX search widget
 - [JetSmartFilters](https://crocoblock.com/plugins/jetsmartfilters/) - advanced filters for any post type
 - [JetStyleManager](https://crocoblock.com/plugins/jetstylemanager/) - custom widget skins
-- [JetTabs](https://crocoblock.com/plugins/jettabs/) - tabs and accordions for Elementor
+- [JetTabs](https://crocoblock.com/plugins/jettabs/) - tabs and accordions
 - [JetThemeCore](https://crocoblock.com/plugins/jetthemecore/) - create any website from ready-made pages
-- [JetTricks](https://crocoblock.com/plugins/jettricks/) - visual effects for Elementor
-- [JetWooBuilder](https://crocoblock.com/plugins/jetwoobuilder/) - WooCommerce widgets for Elementor
+- [JetTricks](https://crocoblock.com/plugins/jettricks/) - visual effects
+- [JetWooBuilder](https://crocoblock.com/plugins/jetwoobuilder/) - WooCommerce widgets
 
 ## Gutenberg
 
