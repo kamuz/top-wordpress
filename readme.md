@@ -92,26 +92,22 @@
 - [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
 - [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) -checks your comments and contact form submissions against our global database of spam to prevent your site from publishing malicious content
 
-## Custom Fields, metaboxes and theme options
+## Metaboxes, custom fields and theme options
 
-- [ACF Pro](https://www.advancedcustomfields.com/pro/) - page builder, custom fields and meta boxes, theme settings, gallery, sliders, accordeons, tabs
+- [ACF Pro](https://www.advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, sliders, accordeons, tabs, custom page builder etc.
 - [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
-- [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency colors in RGBA-Mode
+- [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency
 - [ACF Star Rating](https://github.com/kevinruscoe/acf-star-rating) - a simple star rating field for ACF
 - [ACF Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - select field to load menu wordpress
 - [ACF Markdown](https://github.com/jensjns/acf-markdown-field) - text field with support Markdown
 - [ACF Icon Selector](https://github.com/Kreshnik/acf-field-icon-font) - an font icon selector field
 - [ACF Google Map Extended](https://github.com/codewahoo/acf-gme) - extending the functionality of the built-in Google Map field
 - [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
-- [Carbon Fields](https://github.com/htmlburger/carbon-fields) - custom fields, metaboxes, theme options etc. - the same as ACF Pro, but fully free and no have UI
-
-## Custom Post Type
-
-- [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - help to create new custom post types
+- [Carbon Fields](https://github.com/htmlburger/carbon-fields) - the same as ACF Pro, but fully free and have no GUI
 
 ## Elementor
 
-- [Elementor Pro](https://elementor.com/) - lightweight drag & drop editor for building web pages without code
+- [Elementor Pro](https://elementor.com/) - most popular drag & drop page builder
 - [JetAppointment](https://crocoblock.com/plugins/jetappointment/) - appointment functionality
 - [JetBlocks](https://crocoblock.com/plugins/jetblocks/) - custom header & footer
 - [JetBlog](https://crocoblock.com/plugins/jetblog/) - blogging widgets
