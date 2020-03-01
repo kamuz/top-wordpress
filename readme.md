@@ -142,8 +142,8 @@
 
 ## Search and filters
 
-- [FacetWP](https://facetwp.com/) - advanced filtering and faceted search for WordPress and WooCommerce
-- [SearchWP](https://searchwp.com/) - search in E-Commerce product details, PDF & document content, custom field content, shortcode output, taxonomy term etc.
+- [FacetWP](https://facetwp.com/) - advanced filtering and faceted search
+- [SearchWP](https://searchwp.com/) - search in PDF & documents, custom fields, shortcode output, taxonomy terms etc.
 
 ## Internationazation
 
@@ -157,8 +157,8 @@
 - [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
 - [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
 - [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
-- [Simple Comment Editing](https://wordpress.org/plugins/simple-comment-editing/) - gives anonymous users the ability to edit and/or delete their comments for a period of time
-- [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator (username of WordPress by default)
+- [Simple Comment Editing](https://wordpress.org/plugins/simple-comment-editing/) - gives anonymous users the ability to edit/delete their comments
+- [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator
 
 ## Security
 
