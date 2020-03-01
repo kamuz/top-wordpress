@@ -1,31 +1,29 @@
 ## SEO
 
-- [Rank Math](https://wordpress.org/plugins/seo-by-rank-math/) - help websites owner get access to the SEO tools they need to improve their SEO and attract more traffic to their website
-- [Site Kit by Google](https://wordpress.org/plugins/google-site-kit/) - multiple Google products directly on the WordPress dashboard - Google Search Console, Google Analytics, Google PageSpeed Insights, Google Tag Manager etc.
+- [Rank Math](https://wordpress.org/plugins/seo-by-rank-math/) - complex SEO tools
+- [Site Kit by Google](https://wordpress.org/plugins/google-site-kit/) - multiple Google products directly on the WordPress dashboard
 - [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - identify and remove brocken links
-- [Redirection](https://wordpress.org/plugins/redirection/) - setting 301 redirects
-- [Custom Permalinks](https://wordpress.org/plugins/custom-permalinks/) - det the URL of any post, page, tag or category to anything you want
-- [HTTP / HTTPS Remover](https://wordpress.org/plugins/http-https-remover/) - SSL Mixed Content Fix
+- [Custom Permalinks](https://wordpress.org/plugins/custom-permalinks/) - redefine the URL of any post, page, tag or category
 
 ## Performance
 
-- [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG
-- [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - unlike other similar plugins, it lets you delete only specific posts revisions, not all your site revisions at once
-- [WP Rocket](https://wp-rocket.me/) - multipurpose, premium and most popular plugin for improve performance WordPress site
-- [Autoptimize](https://wordpress.org/plugins/autoptimize/) - compress HTML, CSS, JavaScript, Google Fonts, remove query strings and emojis, Lazy Load for images
+- [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - images optimization by TinyPNG
+- [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - delete revisions for specific posts
+- [WP Rocket](https://wp-rocket.me/) - most popular complex plugin for improve performance of WordPress site
+- [Autoptimize](https://wordpress.org/plugins/autoptimize/) - front-end optimizations inc. HTML, CSS,JavaScript, images
 
 ## Development
 
 - [WP-CLI](https://wp-cli.org/) - command-line interface for WordPress
 - [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
-- [Theme Check](https://wordpress.org/plugins/theme-check/) - scan your theme and make sure that it uses the latest WordPress standards and practices
-- [CMP Coming Soon & Maintenance](https://wordpress.org/plugins/cmp-coming-soon-maintenance/) - activate your Maintenance, Coming soon or Landing page with a single click
-- [Kirki](https://wordpress.org/plugins/kirki/) - allow theme developers to create rich experience for WordPress Customizer and included are more than 30 custom control types
-- [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you to easily require or recommend plugins for your WordPress themes
-- [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - dynamically display custom widget configurations on any page, post, category, post type, or archive page
+- [Theme Check](https://wordpress.org/plugins/theme-check/) - check WordPress standards and best practices for your theme
+- [CMP Coming Soon & Maintenance](https://wordpress.org/plugins/cmp-coming-soon-maintenance/) - activate your coming soon page with a single click
+- [Kirki](https://wordpress.org/plugins/kirki/) - add more than 30 custom control types for Customizer
+- [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you require or recommend plugins for WordPress theme
+- [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - custom widget configurations on any page, post, category, post type, or archive page
 - [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - custom WordPress nav walker class for Bootstrap
 - [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
-- [WP Quick Provision](https://ru.wordpress.org/plugins/wp-quick-provision/) - automatically installing themes and plugins via config file or WordPress.org username favorites
+- [WP Quick Provision](https://ru.wordpress.org/plugins/wp-quick-provision/) - install themes and plugins via config or WordPress.org username
 - [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - view and control what’s happening in the WP-Cron system
 
 ## Debug
@@ -41,56 +39,50 @@
 ## Content
 
 - [WP SVG images](https://wordpress.org/plugins/wp-svg-images/) - add SVG support to your WordPress
-- [HTML Editor Syntax Highlighter](https://wordpress.org/plugins/html-editor-syntax-highlighter/) - add syntax highlighting in the Classic Post & Page HTML text editor, Gutenberg Code Editor, and Theme & Plugin editors using CodeMirror.js
+- [HTML Editor Syntax Highlighter](https://wordpress.org/plugins/html-editor-syntax-highlighter/) - syntax highlighting for posts, theme/plugin editor
 - [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
 - [Parsedown for WordPress](https://wordpress.org/plugins/parsedown-wp/) - runs your posts and comments through the Parsedown Extra
 - [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
-- [Map Multi Marker](https://wordpress.org/plugins/map-multi-marker/) - add multiple Google Maps, set multiple markers, set own markers, customize content for popup windows
-- [Pronamic Google Maps](https://wordpress.org/plugins/pronamic-google-maps/) - add Google Map into post, pages and custom post type.
-- [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - button for ajax content loading
+- [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - AJAX load more button
 - [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
-- [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - allows you to regenerate all thumbnail sizes for one or more images that have been uploaded to your Media Library
-- [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress, and lets you see exactly what people are doing on your site
-- [Simple History](https://wordpress.org/plugins/simple-history/) - shows recent changes made within WordPress, directly on your dashboard or on a separate page
+- [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - regenerate all thumbnail sizes for one or more images
+- [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress
+- [Simple History](https://wordpress.org/plugins/simple-history/) - shows recent changes made within WordPress
 - [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
-- [WP-PageNavi](https://wordpress.org/plugins/wp-pagenavi/) - numerical pagination
 - [Classic Editor](https://wordpress.org/plugins/classic-editor/) - restores the Classic Editor instead Gutenberg
 - [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
-- [User Menus](https://wordpress.org/plugins/user-menus/) - gives more control over your nav menu by allowing you to apply visibility controls to menu items e.g who can see each menu item (everyone, logged out users, logged in users, specific user roles)
-- [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code.
-- [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - the plugin will automatically display all standard WordPress images and galleries in a simple, minimalistic lightbox popup.
+- [User Menus](https://wordpress.org/plugins/user-menus/) - visibility controls to menu items
+- [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code
+- [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - display all standart WordPress images and galleries in lightbox
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 - [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
-- [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - allows to display a list of the most recent comments with avatar and excerpt, choose which to show newer comments first or older comments first and choose comments from any post type.
-- [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts, pages, products and any custom post types
+- [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - advanced recent comments widget
+- [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts and CPT
 
 ## Social
 
-- [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - display completely customizable, responsive and search engine crawlable versions of your Twitter feed on your website
+- [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - Twitter feed on your website
 - [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
 
 ## Admin panel
 
-- [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role capabilities easy, with a few clicks
-- [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager provides you features to edit, delete, upload, download, copy and paste files and folders
-- [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media lists in the WordPress admin panel
+- [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role capabilities
+- [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager inside WordPress admin
+- [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media
 - [Admin Slug Column](https://wordpress.org/plugins/admin-slug-column/) - adds the post slug and page url path into the admin columns
-- [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace the default taxonomy boxes with a custom metabox that uses radio buttons… effectively limiting each post to a single term in that taxonomy
+- [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace taxonomy checkboxes to radio buttons
 
 ## Email and Forms
 
 - [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
-- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - manage multiple contact forms and you can customize the form and the mail contents flexibly with simple markup
-- [Contact Form 7 Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - This plugin adds repeatable groups of fields to Contact Form 7
+- [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - most popular plugin for building forms
+- [Contact Form 7 Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - adds repeatable groups of fields
 - [Contact Form 7 Dynamic Text Extension](https://wordpress.org/plugins/contact-form-7-dynamic-text-extension/) - adding dynamic content post, product, user etc.
-- [Contact Form 7 Phone Mask Field](https://wordpress.org/plugins/cf7-phone-mask-field/) - adds a new field in which you can set the phone number mask or other to Contact Form 7
-- [Contact Form 7 Database](https://wordpress.org/plugins/contact-form-cfdb7/) - saves contact form 7 submissions to your WordPress database
-- [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for your form to thwart spambots without using captcha
-- [Gravity Forms](https://www.gravityforms.com/) - advanced forms
-- [Formidable Forms](https://formidableforms.com/) - advanced forms
-- [MailChimp for WordPress](https://wordpress.org/plugins/mailchimp-for-wp/) - allowing your visitors to subscribe to your newsletter should be easy using default forms of WordPress or plugins like Contact Form 7 etc.
-- [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - allows you to configure and send all outgoing emails via a SMTP server
-- [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) -checks your comments and contact form submissions against our global database of spam to prevent your site from publishing malicious content
+- [Contact Form 7 Phone Mask Field](https://wordpress.org/plugins/cf7-phone-mask-field/) - adds a new field in which you can set the phone number mask
+- [Contact Form 7 Database](https://wordpress.org/plugins/contact-form-cfdb7/) - save and display form submissions in WordPress
+- [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for your form without using captcha
+- [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
+- [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) - smart spam filters
 
 ## Metaboxes, custom fields and theme options
 
@@ -160,27 +152,22 @@
 
 ## Users, community and membership
 
-- [bbPress](https://wordpress.org/plugins/bbpress/) - forums, sections, voites, favorites, subscriptions, topic tags, search, post formatting, auto-embed links, reply threading
-- [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging, notifications
+- [bbPress](https://wordpress.org/plugins/bbpress/) - forum
+- [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging and other social features
 - [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
 - [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
 - [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
 - [Simple Comment Editing](https://wordpress.org/plugins/simple-comment-editing/) - gives anonymous users the ability to edit and/or delete their comments for a period of time
+- [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator (username of WordPress by default)
 
 ## Security
 
 - [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
 - [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/) - hide WordPress admin
 - [Google Authenticator](https://wordpress.org/plugins/google-authenticator/) - gives you two-factor authentication using the Google Authenticator app
-- [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator (username of WordPress by default)
 
-## Data Visualization
-
-- [M Chart](https://wordpress.org/plugins/m-chart/) - allows you to manage data sets via a spreadsheet interface and present that data in chart form via the Chart.js or Highcharts chart libraries
-- [Visualizer](https://wordpress.org/plugins/visualizer/) - uses Google Visualization API, DataTables.net and ChartJS to add responsive & animated charts/diagrams
-
-## SPA and Mobile
+## REST API and GraphQL
 
 - [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress
 - [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql/) - GraphiQL IDE in the WP-Admin
-- [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) - automatically exposes your ACF fields to the WPGraphQL Schema
+- [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) - ACF fields in WPGraphQL Schema
