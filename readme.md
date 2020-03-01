@@ -133,20 +133,20 @@
 - [WooCommerce 360° Image](https://woocommerce.com/products/woocommerce-360-image/) - add a 360° image rotation for products
 - [WooCommerce Additional Variation Images](https://woocommerce.com/products/woocommerce-additional-variation-images/) - add more images for product variation
 - [WooCommerce Bookings](https://woocommerce.com/products/woocommerce-bookings/) - bookable products such as for reservations, services, hires etc.
-- [WooCommerce Booster Plus](https://booster.io/) - add awesome powerful features for WooCommerce like bulk price converter, multi currency, currency per product etc.
+- [WooCommerce Booster Plus](https://booster.io/) - bulk price converter, multi currency, currency per product etc.
 - [WooCommerce Brands](https://woocommerce.com/products/brands/) - add brands to your products
 - [WooCommerce Checkout Add-Ons](http://www.woocommerce.com/products/woocommerce-checkout-add-ons/) - offer free or paid options for checkout and display them in the orders
 - [WooCommerce Composite Products](https://woocommerce.com/products/composite-products/) - offer product kits with configurable components
 - [WooCommerce Memberships](https://www.woocommerce.com/products/woocommerce-memberships/) - sell memberships that provide access to restricted content, products, discounts etc.
 - [WooCommerce Paid Courses](https://woocommerce.com/products/woocommerce-paid-courses/) - Sensei LMS for sell paid courses with WooCommerce
-- [WooCommerce Product Add-ons](https://woocommerce.com/products/product-add-ons/) - extra options to products, like checkboxes, radio buttons, images, text, file upload etc.
+- [WooCommerce Product Add-ons](https://woocommerce.com/products/product-add-ons/) - extra options to products - checkboxes, radio buttons, images, text, file upload etc.
 - [WooCommerce Product Bundles](https://woocommerce.com/products/product-bundles/) - customizable product kits and assembled products
-- [WooCommerce Product Reviews Pro](http://www.woocommerce.com/products/woocommerce-product-reviews-pro/) - advanced WooCommerce product reviews with photo, video, voting, sorting and filters etc.
+- [WooCommerce Product Reviews Pro](http://www.woocommerce.com/products/woocommerce-product-reviews-pro/) - advanced product reviews with photo, video, voting, sorting, filters etc.
 - [WooCommerce Product Search](https://woocommerce.com/products/woocommerce-product-search/) - powerful search engine with live search, filters, automated indexing and statistics
 - [WooCommerce Products Compare](https://woocommerce.com/products/woocommerce-products-compare/) - compare similar products side by side
 - [WooCommerce Quick View](https://woocommerce.com/products/woocommerce-quick-view/) - quick view products and add them to their cart from a lightbox
 - [WooCommerce Subscriptions](http://www.woocommerce.com/products/woocommerce-subscriptions/) - sell products and services with recurring payments
-- [WooCommerce Waitlist](http://www.woothemes.com/products/woocommerce-waitlist/) - enables registered users to request an email notification when an out-of-stock product comes back into stock
+- [WooCommerce Waitlist](http://www.woothemes.com/products/woocommerce-waitlist/) - request an email notification when an out-of-stock product comes back into stock
 
 ## Search and filters
 
