@@ -97,7 +97,7 @@
 - [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 - [Carbon Fields](https://github.com/htmlburger/carbon-fields) - the same as ACF Pro, but fully free and have no GUI
 
-## Page Builder
+## Page Builders
 
 - [Elementor Pro](https://elementor.com/) - most popular drag & drop page builder
 - [JetAppointment](https://crocoblock.com/plugins/jetappointment/) - appointment functionality
