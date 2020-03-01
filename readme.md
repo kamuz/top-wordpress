@@ -94,7 +94,7 @@
 
 ## Metaboxes, custom fields and theme options
 
-- [ACF Pro](https://www.advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, sliders, accordeons, tabs, custom page builder etc.
+- [ACF Pro](https://www.advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, custom page builder, custom Gutenberg blocks etc.
 - [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
 - [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency
 - [ACF Star Rating](https://github.com/kevinruscoe/acf-star-rating) - a simple star rating field for ACF
@@ -109,42 +109,47 @@
 
 - [Elementor Pro](https://elementor.com/) - most popular drag & drop page builder
 - [JetAppointment](https://crocoblock.com/plugins/jetappointment/) - appointment functionality
-- [JetBlocks](https://crocoblock.com/plugins/jetblocks/) - custom header & footer
+- [JetBlocks](https://crocoblock.com/plugins/jetblocks/) - custom header and footer
 - [JetBlog](https://crocoblock.com/plugins/jetblog/) - blogging widgets
 - [JetBooking](https://crocoblock.com/plugins/jetbooking/) - booking functionality
 - [JetCompareWishlist](https://crocoblock.com/plugins/jetcomparewishlist/) - compare and wishlist functionality
 - [JetElements](https://crocoblock.com/plugins/jetelements/) - the must-have widgets
-- [JetEngine](https://crocoblock.com/plugins/jetengine/) - adding & editing dynamic content
+- [JetEngine](https://crocoblock.com/plugins/jetengine/) - dynamic content
 - [JetMenu](https://crocoblock.com/plugins/jetmenu/) - mega menu
 - [JetParallax](https://jetparallax.zemez.io/) - parallax effects
-- [JetPopup](https://crocoblock.com/plugins/jetpopup/) - stylish popup builder
+- [JetPopup](https://crocoblock.com/plugins/jetpopup/) - popup builder
 - [JetProductGallery](https://crocoblock.com/plugins/jetproductgallery/) - advanced WooCommerce product gallery
 - [JetReviews](https://crocoblock.com/plugins/jetreviews/) - reviews widget
 - [JetSearch](https://crocoblock.com/plugins/jetsearch/) - AJAX search widget
 - [JetSmartFilters](https://crocoblock.com/plugins/jetsmartfilters/) - advanced filters for any post type
 - [JetStyleManager](https://crocoblock.com/plugins/jetstylemanager/) - custom widget skins
-- [JetTabs](https://crocoblock.com/plugins/jettabs/) - tabs and accordions
+- [JetTabs](https://crocoblock.com/plugins/jettabs/) - advanced tabs and accordions
 - [JetThemeCore](https://crocoblock.com/plugins/jetthemecore/) - create any website from ready-made pages
 - [JetTricks](https://crocoblock.com/plugins/jettricks/) - visual effects
 - [JetWooBuilder](https://crocoblock.com/plugins/jetwoobuilder/) - WooCommerce widgets
 
-## Gutenberg
-
-- [Grids](https://wordpress.org/plugins/grids/) - a layout builder is a tool that helps you creating visual structures in your page, from a simple layout made by adjacent columns, to more complex compositions
-- [CoBlocks](https://wordpress.org/plugins/coblocks/) - collection of page building WordPress blocks for the Gutenberg
-- [Qubely](https://wordpress.org/plugins/qubely/) - Gutenberg blocks with layout packs and readymade blocks collection
-
 ## WooCommerce
 
-- [WooCommerce](https://wordpress.org/plugins/woocommerce/) - shopping cart, products, categories, tags, attributes, ratings, reviews, currency, language, measurement units, product sorting, filtering, galleries, CSV import/export, payment gateway etc.
-- [WooCommerce Page Builder](https://codecanyon.net/item/woocommerce-page-builder/15534462) -  WPBakery Page Builder add-on for customize single product page, product archive page, cart page, checkout page, login, account page, account details.
-- [Currency per Product for WooCommerce](https://wordpress.org/plugins/currency-per-product-for-woocommerce/) - lets you set and display prices for WooCommerce products in different currencies
-- [WooCommerce Cart Tab](https://wordpress.org/plugins/woocommerce-cart-tab/) - adds a sitewide tab that displays the number of products in the cart
-- [Booster Plus](https://booster.io/) - add awesome powerful features for WooCommerce like bulk price converter, multi currency, currency per product etc.
+- [WooCommerce 360° Image](https://woocommerce.com/products/woocommerce-360-image/) - add a 360° image rotation for products
+- [WooCommerce Additional Variation Images](https://woocommerce.com/products/woocommerce-additional-variation-images/) - add more images for product variation
+- [WooCommerce Bookings](https://woocommerce.com/products/woocommerce-bookings/) - bookable products such as for reservations, services, hires etc.
+- [WooCommerce Booster Plus](https://booster.io/) - add awesome powerful features for WooCommerce like bulk price converter, multi currency, currency per product etc.
+- [WooCommerce Brands](https://woocommerce.com/products/brands/) - add brands to your products
+- [WooCommerce Checkout Add-Ons](http://www.woocommerce.com/products/woocommerce-checkout-add-ons/) - offer free or paid options for checkout and display them in the orders
+- [WooCommerce Composite Products](https://woocommerce.com/products/composite-products/) - offer product kits with configurable components
+- [WooCommerce Memberships](https://www.woocommerce.com/products/woocommerce-memberships/) - sell memberships that provide access to restricted content, products, discounts etc.
+- [WooCommerce Paid Courses](https://woocommerce.com/products/woocommerce-paid-courses/) - Sensei LMS for sell paid courses with WooCommerce
+- [WooCommerce Product Add-ons](https://woocommerce.com/products/product-add-ons/) - extra options to products, like checkboxes, radio buttons, images, text, file upload etc.
+- [WooCommerce Product Bundles](https://woocommerce.com/products/product-bundles/) - customizable product kits and assembled products
+- [WooCommerce Product Reviews Pro](http://www.woocommerce.com/products/woocommerce-product-reviews-pro/) - advanced WooCommerce product reviews with photo, video, voting, sorting and filters etc.
+- [WooCommerce Product Search](https://woocommerce.com/products/woocommerce-product-search/) - powerful search engine with live search, filters, automated indexing and statistics
+- [WooCommerce Products Compare](https://woocommerce.com/products/woocommerce-products-compare/) - compare similar products side by side
+- [WooCommerce Quick View](https://woocommerce.com/products/woocommerce-quick-view/) - quick view products and add them to their cart from a lightbox
+- [WooCommerce Subscriptions](http://www.woocommerce.com/products/woocommerce-subscriptions/) - sell products and services with recurring payments
+- [WooCommerce Waitlist](http://www.woothemes.com/products/woocommerce-waitlist/) - enables registered users to request an email notification when an out-of-stock product comes back into stock
 
-## Search
+## Search and filters
 
-- [Ajax Search for WooCommerce](https://wordpress.org/plugins/ajax-search-for-woocommerce/) - will display the results instantly while typing in an inputbox
 - [FacetWP](https://facetwp.com/) - advanced filtering and faceted search for WordPress and WooCommerce
 - [SearchWP](https://searchwp.com/) - search in E-Commerce product details, PDF & document content, custom field content, shortcode output, taxonomy term etc.
 
