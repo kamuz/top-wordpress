@@ -25,6 +25,7 @@
 - [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
 - [WP Quick Provision](https://ru.wordpress.org/plugins/wp-quick-provision/) - install themes and plugins via config or WordPress.org username
 - [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - view and control what’s happening in the WP-Cron system
+- [WP Data Access](https://wordpress.org/plugins/wp-data-access/) - manage local and remote data and databases from the WordPress dashboard
 
 ## Debug
 
