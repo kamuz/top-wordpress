@@ -145,6 +145,7 @@
 
 - [FacetWP](https://facetwp.com/) - advanced filtering and faceted search
 - [SearchWP](https://searchwp.com/) - search in PDF & documents, custom fields, shortcode output, taxonomy terms etc.
+- [Relevanssi](https://wordpress.org/plugins/relevanssi/) - replaces the standard WordPress search with a better search engine
 
 ## Internationazation
 
