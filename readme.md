@@ -56,16 +56,20 @@
 - [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code
 - [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - display all standart WordPress images and galleries in lightbox
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
-- [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
 - [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - advanced recent comments widget
 - [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts and CPT
+
+## Widgets
+
+- [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
+- [Widget Shortcode](https://en-ca.wordpress.org/plugins/widget-shortcode/) - output widgets using a simple shortcode
 
 ## Social
 
 - [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - Twitter feed on your website
 - [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
 
-## Admin panel
+## Admin
 
 - [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role capabilities
 - [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager inside WordPress admin
@@ -73,7 +77,7 @@
 - [Admin Slug Column](https://wordpress.org/plugins/admin-slug-column/) - adds the post slug and page url path into the admin columns
 - [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace taxonomy checkboxes to radio buttons
 
-## Email and Forms
+## Forms
 
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - most popular plugin for building forms
 - [Contact Form 7 Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - adds repeatable groups of fields
@@ -85,7 +89,7 @@
 - [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
 - [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) - smart spam filters
 
-## Metaboxes, custom fields and theme options
+## Metaboxes
 
 - [ACF Pro](https://www.advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, custom page builder, Gutenberg blocks etc.
 - [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
@@ -98,7 +102,7 @@
 - [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 - [Carbon Fields](https://github.com/htmlburger/carbon-fields) - the same as ACF Pro, but fully free and have no GUI
 
-## Page Builders
+## Elementor
 
 - [Elementor Pro](https://elementor.com/) - most popular drag & drop page builder
 - [JetAppointment](https://crocoblock.com/plugins/jetappointment/) - appointment functionality
@@ -140,19 +144,23 @@
 - [WooCommerce Quick View](https://woocommerce.com/products/woocommerce-quick-view/) - quick view products and add them to their cart from a lightbox
 - [WooCommerce Subscriptions](http://www.woocommerce.com/products/woocommerce-subscriptions/) - sell products and services with recurring payments
 - [WooCommerce Waitlist](http://www.woothemes.com/products/woocommerce-waitlist/) - request an email notification when an out-of-stock product comes back into stock
+- [WooCommerce Product Tabs](https://wordpress.org/plugins/woocommerce-product-tabs/) - helps you to add your custom Tabs in product page in WooCommerce
 
-## Search and filters
+## Search
 
-- [FacetWP](https://facetwp.com/) - advanced filtering and faceted search
 - [SearchWP](https://searchwp.com/) - search in PDF & documents, custom fields, shortcode output, taxonomy terms etc.
 - [Relevanssi](https://wordpress.org/plugins/relevanssi/) - replaces the standard WordPress search with a better search engine
+
+## Filters
+
+- [FacetWP](https://facetwp.com/) - advanced filtering and faceted search
 
 ## Internationazation
 
 - [Polylang](https://wordpress.org/plugins/polylang/) - translate pages, posts, custom types, taxonomy, menus
 - [Loco Translate](https://wordpress.org/plugins/loco-translate/) - provides in-browser editing of WordPress translation files
 
-## Users, community and membership
+## Users
 
 - [bbPress](https://wordpress.org/plugins/bbpress/) - forum
 - [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging and other social features
@@ -168,7 +176,7 @@
 - [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/) - hide WordPress admin
 - [Google Authenticator](https://wordpress.org/plugins/google-authenticator/) - gives you two-factor authentication using the Google Authenticator app
 
-## REST API and GraphQL
+## GraphQL
 
 - [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress
 - [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql/) - GraphiQL IDE in the WP-Admin
