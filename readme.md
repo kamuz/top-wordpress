@@ -86,6 +86,8 @@
 - [Contact Form 7 Database](https://wordpress.org/plugins/contact-form-cfdb7/) - save and display form submissions in WordPress
 - [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for your form without using captcha
 - [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
+- [Gravity Forms](https://gravityforms.com/) - advanced forms
+- [Formidable Forms](https://formidableforms.com/) - advanced forms
 - [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
 - [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) - smart spam filters
 
