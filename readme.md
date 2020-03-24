@@ -52,7 +52,7 @@
 - [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
 - [Classic Editor](https://wordpress.org/plugins/classic-editor/) - restores the Classic Editor instead Gutenberg
 - [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
-- [User Menus](https://wordpress.org/plugins/user-menus/) - visibility controls to menu items
+- [Nav Menu Roles](https://wordpress.org/plugins/nav-menu-roles/) - visibility controls to menu items based on user roles
 - [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code
 - [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - display all standart WordPress images and galleries in lightbox
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
@@ -166,6 +166,7 @@
 
 - [bbPress](https://wordpress.org/plugins/bbpress/) - forum
 - [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging and other social features
+- [BuddyPress Xprofile Custom Field Types](https://wordpress.org/plugins/bp-xprofile-custom-field-types/) - adds additional field types to BuddyPress Profile
 - [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
 - [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
 - [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
