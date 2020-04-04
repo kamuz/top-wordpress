@@ -118,7 +118,6 @@
 ## Elementor
 
 - [Elementor Pro](https://elementor.com/) - most popular drag & drop page builder
-- [ACF Form Widget for Elementor](https://wordpress.org/plugins/acf-frontend-form-element/) - allows to display ACF frontend forms in the Elementor
 - [JetAppointment](https://crocoblock.com/plugins/jetappointment/) - appointment functionality
 - [JetBlocks](https://crocoblock.com/plugins/jetblocks/) - custom header and footer
 - [JetBlog](https://crocoblock.com/plugins/jetblog/) - blogging widgets
