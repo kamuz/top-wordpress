@@ -94,6 +94,8 @@
 ## Metaboxes
 
 - [ACF Pro](https://www.advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, custom page builder, Gutenberg blocks etc.
+- [ACF Extended](https://www.acf-extended.com/) - extends ACF with awesome features
+- [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 - [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
 - [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency
 - [ACF Star Rating](https://github.com/kevinruscoe/acf-star-rating) - a simple star rating field for ACF
@@ -101,7 +103,6 @@
 - [ACF Markdown](https://github.com/jensjns/acf-markdown-field) - text field with support Markdown
 - [ACF Icon Selector](https://github.com/Kreshnik/acf-field-icon-font) - an font icon selector field
 - [ACF Google Map Extended](https://github.com/codewahoo/acf-gme) - extending the functionality of the built-in Google Map field
-- [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 - [Carbon Fields](https://github.com/htmlburger/carbon-fields) - the same as ACF Pro, but fully free and have no GUI
 
 ## Elementor
@@ -152,9 +153,6 @@
 
 - [SearchWP](https://searchwp.com/) - search in PDF & documents, custom fields, shortcode output, taxonomy terms etc.
 - [Relevanssi](https://wordpress.org/plugins/relevanssi/) - replaces the standard WordPress search with a better search engine
-
-## Filters
-
 - [FacetWP](https://facetwp.com/) - advanced filtering and faceted search
 
 ## Internationazation
