@@ -96,17 +96,16 @@
 - [ACF Pro](https://www.advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, custom page builder, Gutenberg blocks etc.
 - [ACF Extended](https://www.acf-extended.com/) - extends ACF with awesome features
 - [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
-- [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
 - [ACF Repeater & Flexible Content Collapser](https://wordpress.org/plugins/acf-repeater-flexible-content-collapser/) - add a button to collapse or expand all rows at once
+- [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - collapse and expand the layout settings in ACF
+- [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - adds a duplicate button to ACF Repeater Fields
 - [ACF Color Swatches](https://wordpress.org/plugins/acf-color-swatches/) - allow users to select from a list of color choices
 - [ACF Code Snippets](https://wordpress.org/plugins/acf-code-snippets/) - generate code snippet examples for ACF
-- [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - collapse and expand the layout settings in ACF
 - [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency
 - [ACF Star Rating](https://github.com/kevinruscoe/acf-star-rating) - a simple star rating field for ACF
 - [ACF Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - select field to load menu wordpress
-- [ACF Markdown](https://github.com/jensjns/acf-markdown-field) - text field with support Markdown
+- [ACF Markdown](https://wordpress.org/plugins/advanced-custom-fields-markdown/) - text field with support Markdown
 - [ACF Icon Selector](https://github.com/Kreshnik/acf-field-icon-font) - an font icon selector field
-- [ACF Google Map Extended](https://github.com/codewahoo/acf-gme) - extending the functionality of the built-in Google Map field
 - [ACF OpenStreetMap Field](https://wordpress.org/plugins/acf-openstreetmap-field/) - add support free OpenStreetMap for add maps
 - [ACF Calculated Fields](https://wordpress.org/plugins/calculated-fields-for-acf/) - allows you to perform simple math based on field values
 - [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - custom features for WYSYWIG field using MediumEditor
