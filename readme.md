@@ -31,6 +31,7 @@
 
 - [Laps](https://github.com/Rarst/laps) - light WordPress profiler
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
+- [Premmerce Dev Tools](https://wordpress.org/plugins/premmerce-dev-tools/) -  making it easier to develop, test and debug the code on the WordPress platform
 
 ## Backup
 
@@ -71,13 +72,12 @@
 
 ## Admin
 
-- [User Role Editor](https://wordpress.org/plugins/user-role-editor/) - change user role capabilities
 - [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager inside WordPress admin
 - [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media
 - [Admin Slug Column](https://wordpress.org/plugins/admin-slug-column/) - adds the post slug and page url path into the admin columns
 - [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace taxonomy checkboxes to radio buttons
 
-## Forms
+## Forms and email
 
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - most popular plugin for building forms
 - [Contact Form 7 Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - adds repeatable groups of fields
@@ -91,7 +91,7 @@
 - [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
 - [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) - smart spam filters
 
-## Metaboxes
+## Custom Fields
 
 - [ACF Pro](https://www.advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, custom page builder, Gutenberg blocks etc.
 - [ACF Extended](https://www.acf-extended.com/) - extends ACF with awesome features
@@ -157,12 +157,21 @@
 - [WooCommerce Subscriptions](http://www.woocommerce.com/products/woocommerce-subscriptions/) - sell products and services with recurring payments
 - [WooCommerce Waitlist](http://www.woothemes.com/products/woocommerce-waitlist/) - request an email notification when an out-of-stock product comes back into stock
 - [WooCommerce Product Tabs](https://wordpress.org/plugins/woocommerce-product-tabs/) - helps you to add your custom Tabs in product page in WooCommerce
+- [Premmerce WooCommerce Customers Manager](https://wordpress.org/plugins/woo-customers-manager/) - extends user profiles and adds the customer data from WooCommerce
+- [Premmerce Multi-currency for Woocommerce](https://wordpress.org/plugins/premmerce-woocommerce-multi-currency/) - multi-currency store with flexible settings
+- [Premmerce Product Filter for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-product-filter/) - manage and display AJAX filters for WooCommerce products
+- [Premmerce Variation Swatches for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-variation-swatches/) -  extends standard attributes of WooCommerce like image, color, label etc.
+- [Premmerce Brands for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-brands/) -  create an unlimited number of brands that can be assigned to the products
+- [Premmerce Product Search for WooCommerce](https://wordpress.org/plugins/premmerce-search/) - product live search with the spell correction
+- [Premmerce Wholesale Pricing for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-wholesale-pricing/) - adding wholesale and ustom prices
+- [Premmerce Wishlist for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-wishlist/) - choose products for future purchases
 
-## Search
+## Search and filters
 
 - [SearchWP](https://searchwp.com/) - search in PDF & documents, custom fields, shortcode output, taxonomy terms etc.
 - [Relevanssi](https://wordpress.org/plugins/relevanssi/) - replaces the standard WordPress search with a better search engine
 - [FacetWP](https://facetwp.com/) - advanced filtering and faceted search
+- [Search & Filter Pro](https://searchandfilter.com/) - search and filtering for posts, products and custom posts type
 
 ## Internationazation
 
@@ -171,8 +180,10 @@
 
 ## Users
 
+- [Premmerce User Roles](https://wordpress.org/plugins/premmerce-user-roles/) - creating user roles and assigning the arbitrary access rights to them
 - [bbPress](https://wordpress.org/plugins/bbpress/) - forum
 - [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging and other social features
+- [BuddyCommerce](https://wordpress.org/plugins/buddycommerce/) - add user's orders, address, downloads etc on their BuddyPres profile
 - [BuddyPress Xprofile Custom Field Types](https://wordpress.org/plugins/bp-xprofile-custom-field-types/) - adds additional field types to BuddyPress Profile
 - [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
 - [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
