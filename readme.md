@@ -166,7 +166,7 @@
 - [Premmerce Wholesale Pricing for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-wholesale-pricing/) - adding wholesale and ustom prices
 - [Premmerce Wishlist for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-wishlist/) - choose products for future purchases
 
-## Search and filters
+## Search and Filters
 
 - [SearchWP](https://searchwp.com/) - search in PDF & documents, custom fields, shortcode output, taxonomy terms etc.
 - [Relevanssi](https://wordpress.org/plugins/relevanssi/) - replaces the standard WordPress search with a better search engine
@@ -180,16 +180,28 @@
 
 ## Users
 
-- [Premmerce User Roles](https://wordpress.org/plugins/premmerce-user-roles/) - creating user roles and assigning the arbitrary access rights to them
+- [Premmerce User Roles](https://wordpress.org/plugins/premmerce-user-roles/) - creating user roles and assigning access rights
+- [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator
+- [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
+
+## bbPress
+
 - [bbPress](https://wordpress.org/plugins/bbpress/) - forum
+
+## BuddyPress
+
 - [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging and other social features
 - [BuddyCommerce](https://wordpress.org/plugins/buddycommerce/) - add user's orders, address, downloads etc on their BuddyPres profile
 - [BuddyPress Xprofile Custom Field Types](https://wordpress.org/plugins/bp-xprofile-custom-field-types/) - adds additional field types to BuddyPress Profile
+
+## Events
+
 - [The Event Calendar](https://wordpress.org/plugins/the-events-calendar/) - event calendar
-- [wpDiscuz](https://wordpress.org/plugins/wpdiscuz/) - AJAX realtime comment system with custom comment form and fields
-- [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
+
+## Comments
+
+- [Comment Popularity](https://wordpress.org/plugins/comment-popularity/) - vote comments up or down
 - [Simple Comment Editing](https://wordpress.org/plugins/simple-comment-editing/) - gives anonymous users the ability to edit/delete their comments
-- [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator
 
 ## Security
 
