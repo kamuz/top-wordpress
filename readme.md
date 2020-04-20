@@ -4,6 +4,7 @@
 - [Site Kit by Google](https://wordpress.org/plugins/google-site-kit/) - multiple Google products directly on the WordPress dashboard
 - [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - identify and remove brocken links
 - [Custom Permalinks](https://wordpress.org/plugins/custom-permalinks/) - redefine the URL of any post, page, tag or category
+- [WP htpasswd](https://wordpress.org/plugins/wp-htpasswd/) - easily create an *.htpasswd* file
 
 ## Performance
 
