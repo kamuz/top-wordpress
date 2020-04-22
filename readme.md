@@ -161,7 +161,7 @@
 - [Premmerce WooCommerce Customers Manager](https://wordpress.org/plugins/woo-customers-manager/) - extends user profiles and adds the customer data from WooCommerce
 - [Premmerce Multi-currency for Woocommerce](https://wordpress.org/plugins/premmerce-woocommerce-multi-currency/) - multi-currency store with flexible settings
 - [Premmerce Product Filter for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-product-filter/) - manage and display AJAX filters for WooCommerce products
-- [Premmerce Variation Swatches for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-variation-swatches/) -  extends standard attributes of WooCommerce like image, color, label etc.
+- [Premmerce Variation Swatches for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-variation-swatches/) -  extends standard attributes like image, color, label etc.
 - [Premmerce Brands for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-brands/) -  create an unlimited number of brands that can be assigned to the products
 - [Premmerce Product Search for WooCommerce](https://wordpress.org/plugins/premmerce-search/) - product live search with the spell correction
 - [Premmerce Wholesale Pricing for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-wholesale-pricing/) - adding wholesale and ustom prices
