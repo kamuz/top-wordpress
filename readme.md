@@ -60,6 +60,7 @@
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 - [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - advanced recent comments widget
 - [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts and CPT
+- [Term Management Tools](https://wordpress.org/plugins/term-management-tools/) - merge terms, set parent, convert terms from one taxonomy
 
 ## Widgets
 
