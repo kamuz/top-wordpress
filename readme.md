@@ -46,31 +46,33 @@
 - [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
 - [Parsedown for WordPress](https://wordpress.org/plugins/parsedown-wp/) - runs your posts and comments through the Parsedown Extra
 - [TablePress](https://wordpress.org/plugins/tablepress/) - easily create and export tables from XLS, CSV
-- [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - AJAX load more button
 - [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
-- [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - regenerate all thumbnail sizes for one or more images
-- [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress
 - [Simple History](https://wordpress.org/plugins/simple-history/) - shows recent changes made within WordPress
-- [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
 - [Classic Editor](https://wordpress.org/plugins/classic-editor/) - restores the Classic Editor instead Gutenberg
-- [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
-- [Nav Menu Roles](https://wordpress.org/plugins/nav-menu-roles/) - visibility controls to menu items based on user roles
 - [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code
-- [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - display all standart WordPress images and galleries in lightbox
+- [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - AJAX load more button
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
-- [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - advanced recent comments widget
 - [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts and CPT
 - [Term Management Tools](https://wordpress.org/plugins/term-management-tools/) - merge terms, set parent, convert terms from one taxonomy
+
+## Comments
+
+
+
+## Gallery and media
+
+- [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
+- [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - display all standart WordPress images and galleries in lightbox
+- [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - regenerate all thumbnail sizes for one or more images
+
+## Navigation
+
+- [Nav Menu Roles](https://wordpress.org/plugins/nav-menu-roles/) - visibility controls to menu items based on user roles
 
 ## Widgets
 
 - [Widget Logic](https://wordpress.org/plugins/widget-logic/) - lets you control the pages that the widget will appear on
 - [Widget Shortcode](https://en-ca.wordpress.org/plugins/widget-shortcode/) - output widgets using a simple shortcode
-
-## Social
-
-- [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - Twitter feed on your website
-- [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
 
 ## Admin
 
@@ -78,6 +80,8 @@
 - [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media
 - [Admin Slug Column](https://wordpress.org/plugins/admin-slug-column/) - adds the post slug and page url path into the admin columns
 - [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace taxonomy checkboxes to radio buttons
+- [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
+- [Disable admin notices individually](https://wordpress.org/plugins/disable-admin-notices/) - hide admin notices globally or individually
 
 ## Forms and email
 
@@ -90,7 +94,12 @@
 - [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
 - [Gravity Forms](https://gravityforms.com/) - advanced forms
 - [Formidable Forms](https://formidableforms.com/) - advanced forms
+
+##  Email 
 - [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
+
+## SPAM
+
 - [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) - smart spam filters
 
 ## Custom Fields
@@ -179,22 +188,25 @@
 
 - [Polylang](https://wordpress.org/plugins/polylang/) - translate pages, posts, custom types, taxonomy, menus
 - [Loco Translate](https://wordpress.org/plugins/loco-translate/) - provides in-browser editing of WordPress translation files
+- [WPML](https://wpml.org/) - making it easy to translate pages, posts, tags, categories, and themes
 
 ## Users
 
 - [Premmerce User Roles](https://wordpress.org/plugins/premmerce-user-roles/) - creating user roles and assigning access rights
 - [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator
-- [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
 
-## bbPress
+## Forum
 
 - [bbPress](https://wordpress.org/plugins/bbpress/) - forum
 
-## BuddyPress
+## Social
 
 - [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging and other social features
 - [BuddyCommerce](https://wordpress.org/plugins/buddycommerce/) - add user's orders, address, downloads etc on their BuddyPres profile
 - [BuddyPress Xprofile Custom Field Types](https://wordpress.org/plugins/bp-xprofile-custom-field-types/) - adds additional field types to BuddyPress Profile
+- [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - Twitter feed on your website
+- [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
+- [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
 
 ## Events
 
@@ -204,12 +216,15 @@
 
 - [Comment Popularity](https://wordpress.org/plugins/comment-popularity/) - vote comments up or down
 - [Simple Comment Editing](https://wordpress.org/plugins/simple-comment-editing/) - gives anonymous users the ability to edit/delete their comments
+- [Recent Comments Widget Plus](https://wordpress.org/plugins/comments-widget-plus/) - advanced recent comments widget
 
 ## Security
 
 - [WP Limit Login Attempts](https://wordpress.org/plugins/wp-limit-login-attempts/) - limit rate of login attempts and block IP temporarily
 - [WPS Hide Login](https://wordpress.org/plugins/wps-hide-login/) - hide WordPress admin
 - [Google Authenticator](https://wordpress.org/plugins/google-authenticator/) - gives you two-factor authentication using the Google Authenticator app
+- [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress
+- [Sucuri Security](https://wordpress.org/plugins/sucuri-scanner/) - auditing, malware scanner and security hardening
 
 ## GraphQL
 
