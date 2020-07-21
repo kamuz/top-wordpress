@@ -91,6 +91,10 @@
 - [Contact Form 7 Phone Mask Field](https://wordpress.org/plugins/cf7-phone-mask-field/) - adds a new field in which you can set the phone number mask
 - [Contact Form 7 Database](https://wordpress.org/plugins/contact-form-cfdb7/) - save and display form submissions in WordPress
 - [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for your form without using captcha
+- [Contact Form 7 Multi-Step Forms](https://wordpress.org/plugins/contact-form-7-multi-step-module/) - lets users create a contact form across multiple pages
+- [Contact Form 7 Mailchimp](https://wordpress.org/plugins/contact-form-7-mailchimp-extension/) - integrate Contact Form 7 with Mailchimp
+- [Contact Form 7 Multiple File Upload](https://wordpress.org/plugins/drag-and-drop-multiple-file-upload-contact-form-7/) - enables users to upload multiple files
+- [Contact Form 7 jQuery Validation](https://wordpress.org/plugins/jquery-validation-for-contact-form-7/) - adds jQuery validation to your forms
 - [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
 - [Gravity Forms](https://gravityforms.com/) - advanced forms
 - [Formidable Forms](https://formidableforms.com/) - advanced forms
