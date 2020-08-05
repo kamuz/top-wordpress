@@ -33,6 +33,7 @@
 - [Laps](https://github.com/Rarst/laps) - light WordPress profiler
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 - [Premmerce Dev Tools](https://wordpress.org/plugins/premmerce-dev-tools/) -  making it easier to develop, test and debug the code on the WordPress platform
+- [Laravel DD for Wordpress](https://wordpress.org/plugins/laravel-dd/) - provide Laravel `dd()` function for debugging
 
 ## Backup
 
@@ -54,10 +55,6 @@
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 - [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts and CPT
 - [Term Management Tools](https://wordpress.org/plugins/term-management-tools/) - merge terms, set parent, convert terms from one taxonomy
-
-## Comments
-
-
 
 ## Gallery and media
 
