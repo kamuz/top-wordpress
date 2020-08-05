@@ -96,7 +96,8 @@
 - [Gravity Forms](https://gravityforms.com/) - advanced forms
 - [Formidable Forms](https://formidableforms.com/) - advanced forms
 
-##  Email 
+##  Email
+
 - [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
 
 ## SPAM
