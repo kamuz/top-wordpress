@@ -125,6 +125,7 @@
 - [ACF Table Field](https://wordpress.org/plugins/advanced-custom-fields-table-field/) - enhances the functionality of the ACF with easy-to-edit tables
 - [ACF Contact Form 7 Field](https://wordpress.org/plugins/acf-field-for-contact-form-7/) - adds a Contact Form 7 field type for ACF
 - [ACF Better Search](https://wordpress.org/plugins/acf-better-search/) - adds ability to search by content from selected fields of ACF
+- [ACF Phone Number Field](https://github.com/Log1x/acf-phone-number) - a real ACF phone number field
 - [Carbon Fields](https://github.com/htmlburger/carbon-fields) - the same as ACF Pro, but fully free and have no GUI
 
 ## Elementor
