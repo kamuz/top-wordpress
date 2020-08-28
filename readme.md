@@ -179,7 +179,6 @@
 - [Premmerce Product Search for WooCommerce](https://wordpress.org/plugins/premmerce-search/) - product live search with the spell correction
 - [Premmerce Wholesale Pricing for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-wholesale-pricing/) - adding wholesale and ustom prices
 - [Premmerce Wishlist for WooCommerce](https://wordpress.org/plugins/premmerce-woocommerce-wishlist/) - choose products for future purchases
-- [Ci WooCommerce Product Gallery Slider](https://wordpress.org/plugins/woo-product-gallery-slider/) - allows you add a carousel in WooCommerce default gallery section
 
 ## Search and Filters
 
