@@ -183,9 +183,7 @@
 ## Search and Filters
 
 - [SearchWP](https://searchwp.com/) - search in PDF & documents, custom fields, shortcode output, taxonomy terms etc.
-- [Relevanssi](https://wordpress.org/plugins/relevanssi/) - replaces the standard WordPress search with a better search engine
 - [FacetWP](https://facetwp.com/) - advanced filtering and faceted search
-- [Search & Filter Pro](https://searchandfilter.com/) - search and filtering for posts, products and custom posts type
 
 ## Internationazation
 
