@@ -10,7 +10,6 @@
 - [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - images optimization by TinyPNG
 - [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - delete revisions for specific posts
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
-- [Autoptimize](https://wordpress.org/plugins/autoptimize/) - front-end optimizations inc. HTML, CSS, JavaScript, images etc.
 
 ## Development
 
@@ -38,6 +37,8 @@
 
 - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - backup your files and database into the cloud and restore with a single click
 - [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/) - 1-click migration for your database, media, themes and plugins
+- [Download Plugin](https://wordpress.org/plugins/download-plugin/) - download one or multiple plugin with one click
+- [Download Theme](https://wordpress.org/plugins/download-theme/) - download theme with one click
 
 ## Content
 
