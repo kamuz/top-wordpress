@@ -10,6 +10,7 @@
 - [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - images optimization by TinyPNG
 - [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - delete revisions for specific posts
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
+- [Media Cleaner](https://wordpress.org/plugins/media-cleaner/) - cleans Media Library from the media entries which aren't used in your website
 
 ## Development
 
