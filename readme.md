@@ -32,7 +32,6 @@
 - [Laps](https://github.com/Rarst/laps) - light WordPress profiler
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 - [Premmerce Dev Tools](https://wordpress.org/plugins/premmerce-dev-tools/) -  making it easier to develop, test and debug the code on the WordPress platform
-- [Laravel DD for Wordpress](https://wordpress.org/plugins/laravel-dd/) - provide Laravel `dd()` function for debugging
 
 ## Backup
 
@@ -66,6 +65,7 @@
 ## Navigation
 
 - [Nav Menu Roles](https://wordpress.org/plugins/nav-menu-roles/) - visibility controls to menu items based on user roles
+- [Sticky Menu](https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll/)- make any element on your pages sticky when you scroll down.
 
 ## Widgets
 
