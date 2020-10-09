@@ -1,16 +1,13 @@
-## SEO
+## Themes
 
-- [Rank Math](https://wordpress.org/plugins/seo-by-rank-math/) - complex SEO tools
-- [Site Kit by Google](https://wordpress.org/plugins/google-site-kit/) - multiple Google products directly on the WordPress dashboard
-- [WP htpasswd](https://wordpress.org/plugins/wp-htpasswd/) - easily create an *.htpasswd* file
-- [AMP](https://wordpress.org/plugins/amp/) - enables AMP content publishing with WordPress
+- [GeneratePress]
 
 ## Performance
 
-- [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - images optimization by TinyPNG
-- [Simple Revisions Delete](https://wordpress.org/plugins/simple-revisions-delete/) - delete revisions for specific posts
+- [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - images optimization with support WebP and WP-CLI
+- [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - generates static html files from your dynamic WordPress content
+- [Autoptimize](https://wordpress.org/plugins/autoptimize/) - optimization of HTML, CSS, JavaScript and Google Fonts
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
-- [Media Cleaner](https://wordpress.org/plugins/media-cleaner/) - cleans Media Library from the media entries which aren't used in your website
 
 ## Development
 
@@ -56,6 +53,7 @@
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 - [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts and CPT
 - [Term Management Tools](https://wordpress.org/plugins/term-management-tools/) - merge terms, set parent, convert terms from one taxonomy
+- [WP Show Posts](https://wordpress.org/plugins/wp-show-posts/) - allows you to display posts and CPT use shortcode
 
 ## Gallery and media
 
@@ -209,6 +207,7 @@
 - [BuddyPress Xprofile Custom Field Types](https://wordpress.org/plugins/bp-xprofile-custom-field-types/) - adds additional field types to BuddyPress Profile
 - [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - Twitter feed on your website
 - [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
+- [Lightweight Social Icons](https://wordpress.org/plugins/lightweight-social-icons/) - social icon widget 
 - [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
 
 ## Events
@@ -229,8 +228,19 @@
 - [Activity Log](https://wordpress.org/plugins/aryo-activity-log/) - logs every activity in WordPress
 - [Sucuri Security](https://wordpress.org/plugins/sucuri-scanner/) - auditing, malware scanner and security hardening
 
+## Gutenberg
+
+- [GenerateBlocks](https://wordpress.org/plugins/generateblocks/) - set of Gutenberg blocks - container, grid, headline, button
+
 ## GraphQL
 
 - [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress
 - [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql/) - GraphiQL IDE in the WP-Admin
 - [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) - ACF fields in WPGraphQL Schema
+
+## SEO
+
+- [Rank Math](https://wordpress.org/plugins/seo-by-rank-math/) - complex SEO tools
+- [Site Kit by Google](https://wordpress.org/plugins/google-site-kit/) - multiple Google products directly on the WordPress dashboard
+- [WP htpasswd](https://wordpress.org/plugins/wp-htpasswd/) - easily create an *.htpasswd* file
+- [AMP](https://wordpress.org/plugins/amp/) - enables AMP content publishing with WordPress
