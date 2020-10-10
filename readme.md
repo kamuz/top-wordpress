@@ -1,6 +1,6 @@
 ## Themes
 
-- [GeneratePress]
+- [GeneratePress](https://wordpress.org/themes/generatepress/) - lightweight theme built with a focus on speed and usability
 
 ## Performance
 
@@ -19,11 +19,10 @@
 - [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you require or recommend plugins for WordPress theme
 - [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - custom widget configurations on any page, post, category, post type, or archive page
 - [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - custom WordPress nav walker class for Bootstrap
-- [WordPress Reset](https://wordpress.org/plugins/wordpress-reset/) - reset WordPress to its initial state
-- [WP Quick Provision](https://ru.wordpress.org/plugins/wp-quick-provision/) - install themes and plugins via config or WordPress.org username
 - [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - view and control what’s happening in the WP-Cron system
 - [WP Data Access](https://wordpress.org/plugins/wp-data-access/) - manage local and remote data and databases from the WordPress dashboard
 - [Easy Theme and Plugin Upgrades](https://wordpress.org/plugins/easy-theme-and-plugin-upgrades/) - update themes and plugins via *.zip* archive
+- [Pluginception](https://wordpress.org/plugins/pluginception/) - lets you quickly and easily create new plugins
 
 ## Debug
 
@@ -53,6 +52,7 @@
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 - [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts and CPT
 - [Term Management Tools](https://wordpress.org/plugins/term-management-tools/) - merge terms, set parent, convert terms from one taxonomy
+- [GP Premium](https://generatepress.com/premium/) - add premium modules for GeneratePress theme
 - [WP Show Posts](https://wordpress.org/plugins/wp-show-posts/) - allows you to display posts and CPT use shortcode
 
 ## Gallery and media
