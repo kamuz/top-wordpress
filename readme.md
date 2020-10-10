@@ -22,6 +22,7 @@
 - [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - view and control what’s happening in the WP-Cron system
 - [WP Data Access](https://wordpress.org/plugins/wp-data-access/) - manage local and remote data and databases from the WordPress dashboard
 - [Easy Theme and Plugin Upgrades](https://wordpress.org/plugins/easy-theme-and-plugin-upgrades/) - update themes and plugins via *.zip* archive
+- [Code Snippets](https://en-ca.wordpress.org/plugins/code-snippets/) - easy way to run PHP code snippets on your site
 - [Pluginception](https://wordpress.org/plugins/pluginception/) - lets you quickly and easily create new plugins
 
 ## Debug
