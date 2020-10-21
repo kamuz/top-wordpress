@@ -1,3 +1,7 @@
+# Top Tools for WordPress Development
+
+My favorite free and paid themes, plugins, page builders and other tools (CLI, PHP libraries etc.) for WordPress Development.
+
 ## Themes
 
 - [GeneratePress](https://wordpress.org/themes/generatepress/) - lightweight theme built with a focus on speed and usability
@@ -7,6 +11,7 @@
 - [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - images optimization with support WebP and WP-CLI
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - generates static html files from your dynamic WordPress content
 - [Autoptimize](https://wordpress.org/plugins/autoptimize/) - optimization of HTML, CSS, JavaScript and Google Fonts
+- [Flying Pages](https://wordpress.org/plugins/flying-pages/) - preload pages before the user click on it
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
 
 ## Development
