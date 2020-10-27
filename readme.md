@@ -29,6 +29,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Easy Theme and Plugin Upgrades](https://wordpress.org/plugins/easy-theme-and-plugin-upgrades/) - update themes and plugins via *.zip* archive
 - [Code Snippets](https://en-ca.wordpress.org/plugins/code-snippets/) - easy way to run PHP code snippets on your site
 - [Pluginception](https://wordpress.org/plugins/pluginception/) - lets you quickly and easily create new plugins
+- [Multiple Themes](https://wordpress.org/plugins/jonradio-multiple-themes/) - provide many ways to select which theme should appear
 
 ## Debug
 
