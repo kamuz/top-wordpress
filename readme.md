@@ -115,6 +115,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 - [ACF Pro](https://www.advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, custom page builder, Gutenberg blocks etc.
 - [ACF Extended](https://www.acf-extended.com/) - extends ACF with awesome features
+- [ACF Quick Edit Fields](https://wordpress.org/plugins/acf-quickedit-fields/) - adds quick edit functionality for ACF
 - [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - exposes ACF Endpoints in the WordPress REST API
 - [ACF Repeater & Flexible Content Collapser](https://wordpress.org/plugins/acf-repeater-flexible-content-collapser/) - add a button to collapse or expand all rows at once
 - [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - collapse and expand the layout settings in ACF
