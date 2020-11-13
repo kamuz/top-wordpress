@@ -70,7 +70,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Navigation
 
-- [Nav Menu Roles](https://wordpress.org/plugins/nav-menu-roles/) - visibility controls to menu items based on user roles
+- [If Menu](https://wordpress.org/plugins/if-menu/) - visibility controls for menus
 - [Sticky Menu](https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll/)- make any element on your pages sticky when you scroll down.
 
 ## Widgets
