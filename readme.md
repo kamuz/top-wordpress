@@ -8,7 +8,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Performance
 
-- [Autoptimize](https://wordpress.org/plugins/autoptimize/) - optimization of HTML, CSS, JavaScript and Google Fonts
+- [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - optimization of HTML, CSS, JavaScript and Google Fonts
 - [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - images optimization with support WebP and WP-CLI
 - [Flying Pages](https://wordpress.org/plugins/flying-pages/) - preload pages before the user click on it
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
