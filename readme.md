@@ -241,6 +241,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 ## Gutenberg
 
 - [GenerateBlocks](https://wordpress.org/plugins/generateblocks/) - set of Gutenberg blocks - container, grid, headline, button
+- [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - adds custom blocks and options to extend Gutenberg
 
 ## GraphQL
 
