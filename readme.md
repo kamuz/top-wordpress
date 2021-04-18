@@ -43,6 +43,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 - [Download Plugin](https://wordpress.org/plugins/download-plugin/) - download one or multiple plugin with one click
 - [Download Theme](https://wordpress.org/plugins/download-theme/) - download theme with one click
+- [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - rollback any theme or plugin
 - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - backup your files and database into the cloud and restore with a single click
 - [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/) - 1-click migration for your database, media, themes and plugins
 
@@ -216,7 +217,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [BuddyPress Xprofile Custom Field Types](https://wordpress.org/plugins/bp-xprofile-custom-field-types/) - adds additional field types to BuddyPress Profile
 - [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging and other social features
 - [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - Twitter feed on your website
-- [Lightweight Social Icons](https://wordpress.org/plugins/lightweight-social-icons/) - social icon widget 
+- [Lightweight Social Icons](https://wordpress.org/plugins/lightweight-social-icons/) - social icon widget
 - [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
 - [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
 
