@@ -4,7 +4,8 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Themes
 
-- [GeneratePress](https://wordpress.org/themes/generatepress/) - lightweight theme built with a focus on speed and usability
+- [GeneratePress](https://generatepress.com/) - lightweight theme built with a focus on speed and usability
+- [Kadence](https://kadence-theme.com/) - lightning-fast performance, yet filled with modern features
 
 ## Performance
 
