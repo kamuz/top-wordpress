@@ -84,7 +84,6 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Admin Columns](https://wordpress.org/plugins/codepress-admin-columns/) - manage and organize columns in the posts, users, comments and media
 - [Admin Slug Column](https://wordpress.org/plugins/admin-slug-column/) - adds the post slug and page url path into the admin columns
 - [Disable admin notices individually](https://wordpress.org/plugins/disable-admin-notices/) - hide admin notices globally or individually
-- [File Manager](https://wordpress.org/plugins/wp-file-manager/) - file manager inside WordPress admin
 - [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
 - [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace taxonomy checkboxes to radio buttons
 
@@ -104,12 +103,9 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Formidable Forms](https://formidableforms.com/) - advanced forms
 - [Gravity Forms](https://gravityforms.com/) - advanced forms
 
-##  Email
+##  Email and SPAM
 
 - [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
-
-## SPAM
-
 - [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) - smart spam filters
 
 ## Custom Fields
@@ -198,19 +194,12 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 - [Loco Translate](https://wordpress.org/plugins/loco-translate/) - provides in-browser editing of WordPress translation files
 - [Polylang](https://wordpress.org/plugins/polylang/) - translate pages, posts, custom types, taxonomy, menus
-- [WPML](https://wpml.org/) - making it easy to translate pages, posts, tags, categories, and themes
 
-## Users
+## Users and Social
 
 - [Premmerce User Roles](https://wordpress.org/plugins/premmerce-user-roles/) - creating user roles and assigning access rights
 - [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator
-
-## Forum
-
 - [bbPress](https://wordpress.org/plugins/bbpress/) - forum
-
-## Social
-
 - [BuddyCommerce](https://wordpress.org/plugins/buddycommerce/) - add user's orders, address, downloads etc on their BuddyPres profile
 - [BuddyPress Xprofile Custom Field Types](https://wordpress.org/plugins/bp-xprofile-custom-field-types/) - adds additional field types to BuddyPress Profile
 - [BuddyPress](https://wordpress.org/plugins/buddypress/) - member profiles, activity streams, direct messaging and other social features
