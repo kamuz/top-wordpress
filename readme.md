@@ -9,23 +9,20 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 ## Performance
 
 - [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - optimization of HTML, CSS, JavaScript and Google Fonts
-- [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - images optimization with support WebP and WP-CLI
+- [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - optimizing JPEG and PNG images with services TinyJPG and TinyPNG
 - [Flying Pages](https://wordpress.org/plugins/flying-pages/) - preload pages before the user click on it
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - generates static html files from your dynamic WordPress content
 
 ## Development
 
-- [Blackfire](https://blackfire.io/) - tools and service for performance testing
 - [CMP Coming Soon & Maintenance](https://wordpress.org/plugins/cmp-coming-soon-maintenance/) - activate your coming soon page with a single click
-- [Code Snippets](https://en-ca.wordpress.org/plugins/code-snippets/) - easy way to run PHP code snippets on your site
 - [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - custom widget configurations on any page, post, category, post type, or archive page
 - [Easy Theme and Plugin Upgrades](https://wordpress.org/plugins/easy-theme-and-plugin-upgrades/) - update themes and plugins via *.zip* archive
 - [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
 - [Kint Debugger](https://wordpress.org/plugins/kint-debugger/) - debugging tool to output information about variables and traces
 - [Kirki](https://wordpress.org/plugins/kirki/) - add more than 30 custom control types for Customizer
 - [Multiple Themes](https://wordpress.org/plugins/jonradio-multiple-themes/) - provide many ways to select which theme should appear
-- [Pluginception](https://wordpress.org/plugins/pluginception/) - lets you quickly and easily create new plugins
 - [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you require or recommend plugins for WordPress theme
 - [Theme Check](https://wordpress.org/plugins/theme-check/) - check WordPress standards and best practices for your theme
 - [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - custom WordPress nav walker class for Bootstrap
@@ -35,7 +32,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Debug
 
-- [Laps](https://github.com/Rarst/laps) - light WordPress profiler
+- [Blackfire](https://blackfire.io/) - tools and service for performance testing
 - [Premmerce Dev Tools](https://wordpress.org/plugins/premmerce-dev-tools/) -  making it easier to develop, test and debug the code on the WordPress platform
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 
