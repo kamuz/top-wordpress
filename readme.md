@@ -36,6 +36,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Blackfire](https://blackfire.io/) - tools and service for performance testing
 - [Premmerce Dev Tools](https://wordpress.org/plugins/premmerce-dev-tools/) -  making it easier to develop, test and debug the code on the WordPress platform
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
+- [Advanced Cron Manager](https://wordpress.org/plugins/advanced-cron-manager/) - manage WP Cron events
 
 ## Backup
 
