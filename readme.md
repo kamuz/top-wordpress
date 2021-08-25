@@ -63,6 +63,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 - [WP Show Posts](https://wordpress.org/plugins/wp-show-posts/) - allows you to display posts and CPT use shortcode
 - [WP SVG images](https://wordpress.org/plugins/wp-svg-images/) - add SVG support to your WordPress
+- [FileBird](https://wordpress.org/plugins/filebird/) - media library folders and file manager
 
 ## Gallery and media
 
