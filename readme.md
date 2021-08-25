@@ -45,6 +45,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - rollback any theme or plugin
 - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - backup your files and database into the cloud and restore with a single click
 - [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/) - 1-click migration for your database, media, themes and plugins
+- [Plugins List](https://wordpress.org/plugins/plugins-list/) - show list of plugins via shortcode
 
 ## Content
 
