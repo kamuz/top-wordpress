@@ -6,11 +6,13 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 - [GeneratePress](https://generatepress.com/) - lightweight theme built with a focus on speed and usability
 - [Kadence](https://kadence-theme.com/) - lightning-fast performance, yet filled with modern features
+- [Storefront](https://github.com/woocommerce/storefront) - official theme for WooCommerce
+- [Underscores](https://github.com/Automattic/_s) - official starter theme from WordPress
 
 ## Performance
 
-- [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - optimization of HTML, CSS, JavaScript and Google Fonts
 - [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - optimizing JPEG and PNG images with services TinyJPG and TinyPNG
+- [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - optimization of HTML, CSS, JavaScript and Google Fonts
 - [Flying Pages](https://wordpress.org/plugins/flying-pages/) - preload pages before the user click on it
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - generates static html files from your dynamic WordPress content
@@ -26,6 +28,8 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Multiple Themes](https://wordpress.org/plugins/jonradio-multiple-themes/) - provide many ways to select which theme should appear
 - [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you require or recommend plugins for WordPress theme
 - [Theme Check](https://wordpress.org/plugins/theme-check/) - check WordPress standards and best practices for your theme
+- [Theme Unit Test](https://wp-cli.org/) - dummy data for testing WordPress theme
+- [WordPress Coding Standards](https://github.com/WordPress/WordPress-Coding-Standards) - WordPress Coding Standards for PHP CodeSniffer
 - [WP Bootstrap Navwalker](https://github.com/wp-bootstrap/wp-bootstrap-navwalker) - custom WordPress nav walker class for Bootstrap
 - [WP Crontrol](https://wordpress.org/plugins/wp-crontrol/) - view and control what’s happening in the WP-Cron system
 - [WP Data Access](https://wordpress.org/plugins/wp-data-access/) - manage local and remote data and databases from the WordPress dashboard
@@ -33,25 +37,26 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Debug
 
+- [Advanced Cron Manager](https://wordpress.org/plugins/advanced-cron-manager/) - manage WP Cron events
 - [Blackfire](https://blackfire.io/) - tools and service for performance testing
 - [Premmerce Dev Tools](https://wordpress.org/plugins/premmerce-dev-tools/) -  making it easier to develop, test and debug the code on the WordPress platform
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
-- [Advanced Cron Manager](https://wordpress.org/plugins/advanced-cron-manager/) - manage WP Cron events
 
 ## Backup
 
 - [Download Plugin](https://wordpress.org/plugins/download-plugin/) - download one or multiple plugin with one click
 - [Download Theme](https://wordpress.org/plugins/download-theme/) - download theme with one click
-- [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - rollback any theme or plugin
+- [Plugins List](https://wordpress.org/plugins/plugins-list/) - show list of plugins via shortcode
 - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - backup your files and database into the cloud and restore with a single click
 - [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/) - 1-click migration for your database, media, themes and plugins
-- [Plugins List](https://wordpress.org/plugins/plugins-list/) - show list of plugins via shortcode
+- [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - rollback any theme or plugin
 
 ## Content
 
 - [Classic Editor](https://wordpress.org/plugins/classic-editor/) - restores the Classic Editor instead Gutenberg
 - [Easy Load More](https://wordpress.org/plugins/easy-load-more/) - AJAX load more button
 - [Easy Table of Contents](https://wordpress.org/plugins/easy-table-of-contents/) -  insert a table of contents into your posts, pages and custom post types
+- [FileBird](https://wordpress.org/plugins/filebird/) - media library folders and file manager
 - [GP Premium](https://generatepress.com/premium/) - add premium modules for GeneratePress theme
 - [HTML Editor Syntax Highlighter](https://wordpress.org/plugins/html-editor-syntax-highlighter/) - syntax highlighting for posts, theme/plugin editor
 - [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
@@ -64,14 +69,13 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [WordPress GitHub Sync](https://wordpress.org/plugins/wp-github-sync/) - sync content with a GitHub repository
 - [WP Show Posts](https://wordpress.org/plugins/wp-show-posts/) - allows you to display posts and CPT use shortcode
 - [WP SVG images](https://wordpress.org/plugins/wp-svg-images/) - add SVG support to your WordPress
-- [FileBird](https://wordpress.org/plugins/filebird/) - media library folders and file manager
 
 ## Gallery and media
 
+- [Lightbox with PhotoSwipe](https://wordpress.org/plugins/lightbox-photoswipe/) - all linked images in a post or page will be displayed using PhotoSwipe
 - [Photonic](https://wordpress.org/plugins/photonic/) - lightbox gallery for Flickr, SmugMug, Google Photos, Zenfolio and Instagram
 - [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - regenerate all thumbnail sizes for one or more images
 - [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/) - display all standart WordPress images and galleries in lightbox
-- [Lightbox with PhotoSwipe](https://wordpress.org/plugins/lightbox-photoswipe/) - all linked images in a post or page will be displayed using PhotoSwipe
 
 ## Navigation
 
@@ -109,12 +113,11 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ##  Email and SPAM
 
-- [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
 - [Akismet Anti-Spam](https://wordpress.org/plugins/akismet/) - smart spam filters
+- [Easy WP SMTP](https://wordpress.org/plugins/easy-wp-smtp/) - configure and send all outgoing emails via a SMTP server
 
 ## Custom Fields
 
-- [ACF Pro](https://advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, custom page builder, Gutenberg blocks etc.
 - [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - collapse and expand the layout settings in ACF
 - [ACF Better Search](https://wordpress.org/plugins/acf-better-search/) - adds ability to search by content from selected fields of ACF
 - [ACF Calculated Fields](https://wordpress.org/plugins/calculated-fields-for-acf/) - allows you to perform simple math based on field values
@@ -129,6 +132,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [ACF Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - select field to load menu wordpress
 - [ACF OpenStreetMap Field](https://wordpress.org/plugins/acf-openstreetmap-field/) - add support free OpenStreetMap for add maps
 - [ACF Phone Number Field](https://github.com/Log1x/acf-phone-number) - a real ACF phone number field
+- [ACF Pro](https://advancedcustomfields.com/pro/) - custom fields, meta boxes, theme settings, gallery, custom page builder, Gutenberg blocks etc.
 - [ACF Quick Edit Fields](https://wordpress.org/plugins/acf-quickedit-fields/) - adds quick edit functionality for ACF
 - [ACF Repeater & Flexible Content Collapser](https://wordpress.org/plugins/acf-repeater-flexible-content-collapser/) - add a button to collapse or expand all rows at once
 - [ACF RGBA Color Picker](https://wordpress.org/plugins/acf-rgba-color-picker/) - color picker that supports transparency
@@ -201,8 +205,6 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Users and Social
 
-- [Premmerce User Roles](https://wordpress.org/plugins/premmerce-user-roles/) - creating user roles and assigning access rights
-- [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator
 - [bbPress](https://wordpress.org/plugins/bbpress/) - forum
 - [BuddyCommerce](https://wordpress.org/plugins/buddycommerce/) - add user's orders, address, downloads etc on their BuddyPres profile
 - [BuddyPress Xprofile Custom Field Types](https://wordpress.org/plugins/bp-xprofile-custom-field-types/) - adds additional field types to BuddyPress Profile
@@ -210,6 +212,8 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Custom Twitter Feeds](https://wordpress.org/plugins/custom-twitter-feeds/) - Twitter feed on your website
 - [Lightweight Social Icons](https://wordpress.org/plugins/lightweight-social-icons/) - social icon widget
 - [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
+- [Premmerce User Roles](https://wordpress.org/plugins/premmerce-user-roles/) - creating user roles and assigning access rights
+- [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator
 - [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
 
 ## Events
