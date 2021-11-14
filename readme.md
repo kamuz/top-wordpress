@@ -20,8 +20,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Development
 
-- [CMP Coming Soon & Maintenance](https://wordpress.org/plugins/cmp-coming-soon-maintenance/) - activate your coming soon page with a single click
-- [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - custom widget configurations on any page, post, category, post type, or archive page
+- [Advanced Cron Manager](https://wordpress.org/plugins/advanced-cron-manager/) - manage WP Cron events
 - [Easy Theme and Plugin Upgrades](https://wordpress.org/plugins/easy-theme-and-plugin-upgrades/) - update themes and plugins via *.zip* archive
 - [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
 - [Multiple Themes](https://wordpress.org/plugins/jonradio-multiple-themes/) - provide many ways to select which theme should appear
@@ -36,16 +35,12 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Debug
 
-- [Advanced Cron Manager](https://wordpress.org/plugins/advanced-cron-manager/) - manage WP Cron events
 - [Blackfire](https://blackfire.io/) - tools and service for performance testing
 - [Premmerce Dev Tools](https://wordpress.org/plugins/premmerce-dev-tools/) -  making it easier to develop, test and debug the code on the WordPress platform
 - [Query Monitor](https://wordpress.org/plugins/query-monitor/) - debug console than output usefull information about site performance
 
 ## Backup
 
-- [Download Plugin](https://wordpress.org/plugins/download-plugin/) - download one or multiple plugin with one click
-- [Download Theme](https://wordpress.org/plugins/download-theme/) - download theme with one click
-- [Plugins List](https://wordpress.org/plugins/plugins-list/) - show list of plugins via shortcode
 - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - backup your files and database into the cloud and restore with a single click
 - [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/) - 1-click migration for your database, media, themes and plugins
 - [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - rollback any theme or plugin
