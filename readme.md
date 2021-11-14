@@ -6,6 +6,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 - [GeneratePress](https://generatepress.com/) - lightweight theme built with a focus on speed and usability
 - [Kadence](https://kadence-theme.com/) - lightning-fast performance, yet filled with modern features
+- [Sage](https://github.com/roots/sage) - starter theme with Laravel Mix and Blade support
 - [Storefront](https://github.com/woocommerce/storefront) - official theme for WooCommerce
 - [Underscores](https://github.com/Automattic/_s) - official starter theme from WordPress
 
@@ -13,7 +14,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 - [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - optimizing JPEG and PNG images with services TinyJPG and TinyPNG
 - [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - optimization of HTML, CSS, JavaScript and Google Fonts
-- [Flying Pages](https://wordpress.org/plugins/flying-pages/) - preload pages before the user click on it
+- [Soil](https://github.com/roots/soil) - collection of modules to apply theme-agnostic front-end modifications
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
 - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - generates static html files from your dynamic WordPress content
 
@@ -23,8 +24,6 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/) - custom widget configurations on any page, post, category, post type, or archive page
 - [Easy Theme and Plugin Upgrades](https://wordpress.org/plugins/easy-theme-and-plugin-upgrades/) - update themes and plugins via *.zip* archive
 - [FakerPress](https://wordpress.org/plugins/fakerpress/) - generate fake and dummy content
-- [Kint Debugger](https://wordpress.org/plugins/kint-debugger/) - debugging tool to output information about variables and traces
-- [Kirki](https://wordpress.org/plugins/kirki/) - add more than 30 custom control types for Customizer
 - [Multiple Themes](https://wordpress.org/plugins/jonradio-multiple-themes/) - provide many ways to select which theme should appear
 - [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - PHP library that allows you require or recommend plugins for WordPress theme
 - [Theme Check](https://wordpress.org/plugins/theme-check/) - check WordPress standards and best practices for your theme
@@ -143,7 +142,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Elementor
 
-- [Elementor Pro](https://elementor.com/) - most popular drag & drop page builder
+- [Elementor](https://elementor.com/) - most popular drag & drop page builder
 - [JetAppointment](https://crocoblock.com/plugins/jetappointment/) - appointment functionality
 - [JetBlocks](https://crocoblock.com/plugins/jetblocks/) - custom header and footer
 - [JetBlog](https://crocoblock.com/plugins/jetblog/) - blogging widgets
@@ -158,9 +157,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [JetReviews](https://crocoblock.com/plugins/jetreviews/) - reviews widget
 - [JetSearch](https://crocoblock.com/plugins/jetsearch/) - AJAX search widget
 - [JetSmartFilters](https://crocoblock.com/plugins/jetsmartfilters/) - advanced filters for any post type
-- [JetStyleManager](https://crocoblock.com/plugins/jetstylemanager/) - custom widget skins
 - [JetTabs](https://crocoblock.com/plugins/jettabs/) - advanced tabs and accordions
-- [JetThemeCore](https://crocoblock.com/plugins/jetthemecore/) - create any website from ready-made pages
 - [JetTricks](https://crocoblock.com/plugins/jettricks/) - visual effects
 - [JetWooBuilder](https://crocoblock.com/plugins/jetwoobuilder/) - WooCommerce widgets
 
@@ -196,6 +193,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 ## Search and Filters
 
 - [FacetWP](https://facetwp.com/) - advanced filtering and faceted search
+- [Relevanssi](https://wordpress.org/plugins/relevanssi/) - replaces the standard WordPress search with a better search engine
 - [SearchWP](https://searchwp.com/) - search in PDF & documents, custom fields, shortcode output, taxonomy terms etc.
 
 ## Internationazation
@@ -214,6 +212,11 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Likely](https://wordpress.org/plugins/likely/) - the social sharing buttons
 - [Premmerce User Roles](https://wordpress.org/plugins/premmerce-user-roles/) - creating user roles and assigning access rights
 - [Username Changer](https://wordpress.org/plugins/username-changer/) - adds the ability to change the username of the administrator
+
+## Login and Register
+
+- [JWT Authentication](https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/) - JSON Web Tokens Authentication
+- [Sidebar Login](https://wordpress.org/plugins/sidebar-login/) - login widget
 - [WordPress Social Login](https://wordpress.org/plugins/wordpress-social-login/) - register and login via social networks, based on HybriaAuth library
 
 ## Events
@@ -239,7 +242,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [GenerateBlocks](https://wordpress.org/plugins/generateblocks/) - set of Gutenberg blocks - container, grid, headline, button
 - [Kadence Blocks](https://wordpress.org/plugins/kadence-blocks/) - adds custom blocks and options to extend Gutenberg
 
-## GraphQL
+## Headless
 
 - [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress
 - [WPGraphQL for ACF](https://github.com/wp-graphql/wp-graphql-acf) - ACF fields in WPGraphQL Schema
