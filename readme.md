@@ -88,6 +88,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Disable admin notices individually](https://wordpress.org/plugins/disable-admin-notices/) - hide admin notices globally or individually
 - [Filter Page by Template](https://wordpress.org/plugins/filter-page-by-template/) - filter posts/pages by selecting a template from the dropdown
 - [Radio Buttons for Taxonomies](https://wordpress.org/plugins/radio-buttons-for-taxonomies/) - replace taxonomy checkboxes to radio buttons
+- [Auto Hide Admin Bar](https://wordpress.org/plugins/auto-hide-admin-bar/) - auto hide admin bar and show when hover on the top of the browser
 
 ## Forms and email
 
