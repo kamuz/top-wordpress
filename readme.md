@@ -12,7 +12,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Performance
 
-- [Compress JPEG & PNG images](https://wordpress.org/plugins/tiny-compress-images/) - optimizing JPEG and PNG images with services TinyJPG and TinyPNG
+- [TinyPNG](https://wordpress.org/plugins/tiny-compress-images/) - JPEG, PNG and WebP image compression
 - [Fast Velocity Minify](https://wordpress.org/plugins/fast-velocity-minify/) - optimization of HTML, CSS, JavaScript and Google Fonts
 - [Soil](https://github.com/roots/soil) - collection of modules to apply theme-agnostic front-end modifications
 - [WP Rocket](https://wp-rocket.me/) - most popular complex paid plugin for improve performance of WordPress site
