@@ -92,7 +92,6 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Forms and email
 
-- [Advanced Forms](https://wordpress.org/plugins/advanced-forms/) - build flexible forms using the power of Advanced Custom Fields
 - [Contact Form 7 Database](https://wordpress.org/plugins/contact-form-cfdb7/) - save and display form submissions in WordPress
 - [Contact Form 7 Dynamic Text Extension](https://wordpress.org/plugins/contact-form-7-dynamic-text-extension/) - adding dynamic content from post or users
 - [Contact Form 7 Honeypot](https://wordpress.org/plugins/contact-form-7-honeypot/) - adds anti-spam functionality for your form without using captcha
@@ -103,7 +102,6 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [Contact Form 7 Phone Mask Field](https://wordpress.org/plugins/cf7-phone-mask-field/) - adds a new field in which you can set the phone number mask
 - [Contact Form 7 Repeatable Fields](https://wordpress.org/plugins/cf7-repeatable-fields/) - adds repeatable groups of fields
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - most popular plugin for building forms
-- [Formidable Forms](https://formidableforms.com/) - advanced forms
 - [Gravity Forms](https://gravityforms.com/) - advanced forms
 
 ##  Email and SPAM
