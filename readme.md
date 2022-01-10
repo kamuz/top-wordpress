@@ -41,9 +41,9 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 
 ## Backup
 
+- [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - simple solution for backup, export and import
 - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/) - backup your files and database into the cloud and restore with a single click
-- [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/) - 1-click migration for your database, media, themes and plugins
-- [WP Rollback](https://wordpress.org/plugins/wp-rollback/) - rollback any theme or plugin
+- [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/) - migration of database, media, themes and plugins
 
 ## Content
 
@@ -74,7 +74,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 ## Navigation
 
 - [If Menu](https://wordpress.org/plugins/if-menu/) - visibility controls for menus
-- [Sticky Menu](https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll/)- make any element on your pages sticky when you scroll down.
+- [Sticky Menu](https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll/) - make any element on your pages sticky when you scroll down.
 
 ## Widgets
 
