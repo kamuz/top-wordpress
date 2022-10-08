@@ -53,7 +53,7 @@ My favorite free and paid themes, plugins, page builders and other tools (CLI, P
 - [FileBird](https://wordpress.org/plugins/filebird/) - media library folders and file manager
 - [GP Premium](https://generatepress.com/premium/) - add premium modules for GeneratePress theme
 - [HTML Editor Syntax Highlighter](https://wordpress.org/plugins/html-editor-syntax-highlighter/) - syntax highlighting for posts, theme/plugin editor
-- [Mistape]([https://wordpress.org/plugins/mistape/](https://github.com/wp-plugins/mistape)) - helps users correct errors on the site
+- [Mistape](https://wordpress.org/plugins/mistape/) - helps users correct errors on the site
 - [Parsedown for WordPress](https://wordpress.org/plugins/parsedown-wp/) - runs your posts and comments through the Parsedown Extra
 - [Say what?](https://wordpress.org/plugins/say-what/) - allows you to alter strings on your site without editing WordPress core, or plugin code
 - [Simple Custom Post Order](https://wordpress.org/plugins/simple-custom-post-order/) - drag and drop order for posts and CPT
